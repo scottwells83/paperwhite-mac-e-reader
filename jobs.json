@@ -1,0 +1,15 @@
+{
+  "parallel": 2,
+  "jobs": [
+    {
+      "id": "release-gate-inventory",
+      "model": "local-worker",
+      "brief": "release-gate-inventory.txt"
+    },
+    {
+      "id": "release-notes-draft",
+      "model": "local-drafter",
+      "brief": "release-notes-draft.txt"
+    }
+  ]
+}
