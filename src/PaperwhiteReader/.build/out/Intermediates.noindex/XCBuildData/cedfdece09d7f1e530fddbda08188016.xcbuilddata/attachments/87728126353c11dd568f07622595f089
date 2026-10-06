@@ -1,0 +1,16 @@
+{
+  "" : {
+    "const-values" : "/Users/scott/AI-Workshop/projects/paperwhite-mac-e-reader/src/PaperwhiteReader/.build/out/Intermediates.noindex/PaperwhiteReader.build/Release/PaperwhiteReader-p.build/Objects-normal/arm64/PaperwhiteReader-primary.swiftconstvalues",
+    "dependencies" : "/Users/scott/AI-Workshop/projects/paperwhite-mac-e-reader/src/PaperwhiteReader/.build/out/Intermediates.noindex/PaperwhiteReader.build/Release/PaperwhiteReader-p.build/Objects-normal/arm64/PaperwhiteReader-primary.d",
+    "diagnostics" : "/Users/scott/AI-Workshop/projects/paperwhite-mac-e-reader/src/PaperwhiteReader/.build/out/Intermediates.noindex/PaperwhiteReader.build/Release/PaperwhiteReader-p.build/Objects-normal/arm64/PaperwhiteReader-primary.dia",
+    "emit-module-dependencies" : "/Users/scott/AI-Workshop/projects/paperwhite-mac-e-reader/src/PaperwhiteReader/.build/out/Intermediates.noindex/PaperwhiteReader.build/Release/PaperwhiteReader-p.build/Objects-normal/arm64/PaperwhiteReader-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/scott/AI-Workshop/projects/paperwhite-mac-e-reader/src/PaperwhiteReader/.build/out/Intermediates.noindex/PaperwhiteReader.build/Release/PaperwhiteReader-p.build/Objects-normal/arm64/PaperwhiteReader-primary-emit-module.dia",
+    "pch" : "/Users/scott/AI-Workshop/projects/paperwhite-mac-e-reader/src/PaperwhiteReader/.build/out/Intermediates.noindex/PaperwhiteReader.build/Release/PaperwhiteReader-p.build/Objects-normal/arm64/PaperwhiteReader-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/scott/AI-Workshop/projects/paperwhite-mac-e-reader/src/PaperwhiteReader/.build/out/Intermediates.noindex/PaperwhiteReader.build/Release/PaperwhiteReader-p.build/Objects-normal/arm64/PaperwhiteReader-primary.swiftdeps"
+  },
+  "/Users/scott/AI-Workshop/projects/paperwhite-mac-e-reader/src/PaperwhiteReader/Sources/PaperwhiteReader/main.swift" : {
+    "index-unit-output-path" : "/PaperwhiteReader.build/Release/PaperwhiteReader-p.build/Objects-normal/arm64/main.o",
+    "llvm-bc" : "/Users/scott/AI-Workshop/projects/paperwhite-mac-e-reader/src/PaperwhiteReader/.build/out/Intermediates.noindex/PaperwhiteReader.build/Release/PaperwhiteReader-p.build/Objects-normal/arm64/main.bc",
+    "object" : "/Users/scott/AI-Workshop/projects/paperwhite-mac-e-reader/src/PaperwhiteReader/.build/out/Intermediates.noindex/PaperwhiteReader.build/Release/PaperwhiteReader-p.build/Objects-normal/arm64/main.o"
+  }
+}

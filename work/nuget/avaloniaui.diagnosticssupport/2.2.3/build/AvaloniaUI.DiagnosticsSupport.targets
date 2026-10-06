@@ -1,0 +1,73 @@
+<Project>
+
+  <!--
+    Detect if the legacy Avalonia.Diagnostics package is referenced alongside AvaloniaUI.DiagnosticsSupport.
+  -->
+  <Target Name="_CheckAvaloniaDiagnosticsConflict"
+          AfterTargets="ResolveTargetingPackAssets"
+          BeforeTargets="Build"
+          Condition="'$(AvaloniaCheckDiagnosticsConflict)' != 'false'">
+
+    <ItemGroup>
+      <_LegacyAvaloniaDiagnosticsRef Include="@(Reference)" Condition="'%(Filename)' == 'Avalonia.Diagnostics'" />
+    </ItemGroup>
+
+    <Error Condition="'@(_LegacyAvaloniaDiagnosticsRef)' != ''"
+           Text="'Avalonia.Diagnostics' is referenced alongside 'AvaloniaUI.DiagnosticsSupport'. 'Avalonia.Diagnostics' does not support Avalonia v12 and conflicts with AvaloniaUI.DiagnosticsSupport. Remove the 'Avalonia.Diagnostics' reference from your project. To suppress this error, add &lt;AvaloniaCheckDiagnosticsConflict&gt;false&lt;/AvaloniaCheckDiagnosticsConflict&gt; to your project or Directory.Build.props." />
+  </Target>
+
+  <!--
+    Warn if the detected Avalonia major version is not in the supported set (11, 12).
+  -->
+  <Target Name="_CheckAvaloniaMajorVersionSupport"
+          AfterTargets="ResolvePackageAssets"
+          Condition="'$(AvaloniaCheckDiagnosticsSupportedVersion)' != 'false' AND '$(AvaloniaMainPackageVersion)' != ''">
+
+    <PropertyGroup>
+      <_AvaloniaMajorVersion>$(AvaloniaMainPackageVersion.Split('.')[0])</_AvaloniaMajorVersion>
+    </PropertyGroup>
+
+    <Warning Condition="'$(_AvaloniaMajorVersion)' != '11' AND '$(_AvaloniaMajorVersion)' != '12'"
+             Text="AvaloniaUI.DiagnosticsSupport supports Avalonia versions 11 and 12. Detected version $(AvaloniaMainPackageVersion) may not be supported. To suppress this warning, add &lt;AvaloniaCheckDiagnosticsSupportedVersion&gt;false&lt;/AvaloniaCheckDiagnosticsSupportedVersion&gt; to your project or Directory.Build.props." />
+  </Target>
+
+  <Target Name="_SwapDiagnosticsSupportAvaloniaVersion"
+          AfterTargets="ResolvePackageAssets"
+          Condition="'$(AvaloniaMainPackageVersion)' != '' AND $(AvaloniaMainPackageVersion.StartsWith('11'))">
+
+    <!-- Find the already-resolved path for AvaloniaUI.DiagnosticsSupport.Avalonia.dll, so we derive the v11 variant path from it. -->
+    <ItemGroup>
+      <_DiagSupportResolvedRef Include="@(ResolvedCompileFileDefinitions)"
+                               Condition="'%(Filename)' == 'AvaloniaUI.DiagnosticsSupport.Avalonia'" />
+    </ItemGroup>
+
+    <PropertyGroup>
+      <_DiagSupportV11Path>@(_DiagSupportResolvedRef->'%(RootDir)%(Directory)v11/%(Filename)%(Extension)')</_DiagSupportV11Path>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ResolvedCompileFileDefinitions Remove="@(ResolvedCompileFileDefinitions)"
+                                      Condition="'%(Filename)' == 'AvaloniaUI.DiagnosticsSupport.Avalonia'" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ResolvedCopyLocalItems Remove="@(ResolvedCopyLocalItems)"
+                              Condition="'%(Filename)' == 'AvaloniaUI.DiagnosticsSupport.Avalonia'" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ResolvedCompileFileDefinitions Include="$(_DiagSupportV11Path)" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ResolvedCopyLocalItems Include="$(_DiagSupportV11Path)">
+        <CopyLocal>true</CopyLocal>
+        <Private>true</Private>
+      </ResolvedCopyLocalItems>
+    </ItemGroup>
+
+    <Message Importance="normal"
+             Text="AvaloniaUI.DiagnosticsSupport: Using Avalonia v11 assembly variant from '$(_DiagSupportV11Path)' (detected version: $(AvaloniaMainPackageVersion))" />
+  </Target>
+
+</Project>

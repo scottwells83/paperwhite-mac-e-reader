@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'AllExcludingTests' in project 'Aggregate'
+➜ Explicit dependency on target 'PaperwhiteReader-product' in project 'PaperwhiteReader'
+Target 'PaperwhiteReader-product' in project 'PaperwhiteReader' (no dependencies)

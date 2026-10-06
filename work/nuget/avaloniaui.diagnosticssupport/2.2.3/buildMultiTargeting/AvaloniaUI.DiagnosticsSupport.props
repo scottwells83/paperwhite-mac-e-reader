@@ -1,0 +1,9 @@
+<Project>
+  <PropertyGroup>
+    <MetricsSupport Condition="'$(Configuration)' == 'Debug'">true</MetricsSupport>
+    <HasAvaloniaDiagnosticsSupport>true</HasAvaloniaDiagnosticsSupport>
+  </PropertyGroup>
+  <ItemGroup>
+    <RuntimeHostConfigurationOption Include="Avalonia.Diagnostics.Diagnostic.IsEnabled" Value="True" /> 
+  </ItemGroup>
+</Project>

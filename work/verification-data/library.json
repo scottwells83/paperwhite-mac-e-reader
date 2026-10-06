@@ -1,0 +1,32 @@
+{
+  "SelectedBookId": "9f26728f5c6f4184a7865e3bc230ffd6",
+  "Theme": "Night",
+  "FontSize": 20,
+  "Books": [
+    {
+      "Id": "9f26728f5c6f4184a7865e3bc230ffd6",
+      "Title": "A Quiet Coast",
+      "Author": "Paperwhite Sample",
+      "FileName": "Sample Book.epub",
+      "ContentHash": "D236F65384DADC0058272B5F20C55986C229E20BF5A7DAFAEA380E8335B5B581",
+      "ChapterCount": 2,
+      "LastChapter": 0,
+      "ChapterOffsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "Id": "2a2a7abfd4d449bba281fc9599c0f564",
+      "Title": "Scroll Check",
+      "Author": "PaperLike",
+      "FileName": "scroll-check.epub",
+      "ContentHash": "2AAAEC0FB077EF9111790722DA55A88243D035A131CE50F0A3691E64419C7D7C",
+      "ChapterCount": 1,
+      "LastChapter": 0,
+      "ChapterOffsets": [
+        1464
+      ]
+    }
+  ]
+}
