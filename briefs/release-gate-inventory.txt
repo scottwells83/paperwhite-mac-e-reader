@@ -1,0 +1,14 @@
+Task
+Create a factual release-readiness inventory for PaperLike based only on the supplied project record and repository README.
+
+Context
+PaperLike is a free, local-first EPUB reader for Windows and macOS. Confirmed capabilities: import EPUB copies while leaving source files in place; browse chapter headings; reopen at saved chapter and scroll position; Paper, Ivory, and Night themes; adjustable text size; local-only library and progress. Current limitation: chapter text extraction does not show book images or rich inline EPUB styling. Bookmarks, search, PDF, and syncing are not included. The project record says macOS package, local install, sample EPUB import, theme switching, and chapter resume were reviewed on macOS; Windows x64 was cross-published but not launched on this Mac. macOS builds are ad-hoc signed and not notarized. A source license is undecided. GitHub publication requires repository authorization.
+
+Constraints
+Use only facts above. Do not infer that an unlisted feature works or that a workflow has been tested. Separate confirmed facts, release blockers/open decisions, and checks that still need to be performed. Do not write or modify source files.
+
+Deliverable
+A concise Markdown table with exactly these sections: Confirmed capabilities/status; Known product limitations (these are scope limitations, not undecided release gates); Open release decisions; Checks not yet performed. For each item include evidence or a short reason. Classify the license and publication authorization as open decisions. Classify ad-hoc signing/no notarization as confirmed package status and a distribution limitation. Classify Windows as unverified specifically on a Windows machine; do not say it was not launched on macOS as though that were the relevant test.
+
+Definition of done
+Every statement is supported by Context; the four sections distinguish known product limitations from unresolved decisions and unperformed tests; unknowns remain explicitly unknown; the checklist contains no invented status.

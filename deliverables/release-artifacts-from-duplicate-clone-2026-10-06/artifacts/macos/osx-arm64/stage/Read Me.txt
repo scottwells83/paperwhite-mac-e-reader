@@ -1,0 +1,8 @@
+PaperLike for macOS
+
+Open “Install PaperLike.command” to install the app for your account.
+The app goes in ~/Applications. Your EPUB library and progress are saved in:
+~/Library/Application Support/PaperLike/
+
+This early build is not signed or notarized. macOS may ask you to confirm that
+it is allowed to open. This package is for evaluation, not broad public release.

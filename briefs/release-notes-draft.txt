@@ -1,0 +1,14 @@
+Task
+Draft concise, user-friendly preliminary release notes for PaperLike based on the supplied facts.
+
+Context
+PaperLike is a free, local-first EPUB reader for Windows and macOS. It imports EPUB copies into a local library without moving the originals, supports chapter navigation, saves chapter and scroll position, offers Paper, Ivory, and Night themes, and lets readers adjust text size. It keeps books and progress on the computer without accounts or cloud upload. Current limitations: book images and rich inline EPUB styling are not shown; bookmarks, search, PDF, and syncing are not included. The Windows x64 build is a preview and has not been launched on a Windows machine. macOS packages are ad-hoc signed and not notarized. The license is undecided and no public release is confirmed.
+
+Constraints
+Clearly label this as a preliminary draft, not published release notes. Do not invent version, date, download link, release status, or license. Avoid implying Windows or macOS distribution readiness beyond these facts. Describe the Windows preview as not yet verified on a Windows machine; do not say it has not been launched on macOS. Keep it concise and accessible.
+
+Deliverable
+Markdown release-notes draft with a short intro, Highlights, Known limitations, and Availability note.
+
+Definition of done
+All claims match Context; all release uncertainties and platform limits are accurately stated; no unsupported promises or invented metadata appear.

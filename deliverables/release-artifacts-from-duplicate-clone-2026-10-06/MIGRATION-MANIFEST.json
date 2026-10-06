@@ -1,0 +1,3397 @@
+{
+  "created_utc": "2026-10-06T11:53:08.893719+00:00",
+  "source": "/Users/scott/AI-Workshop/projects/paperwhite-mac-e-reader/repository/artifacts",
+  "destination_artifacts": "artifacts",
+  "files": [
+    {
+      "path": "macos/osx-arm64/PaperLike-macOS-osx-arm64.dmg",
+      "size": 51575767,
+      "sha256": "4e2d5e376bbce28be106f4edff35b00cf108332aff55c976ef82078f6fdd7c2e"
+    },
+    {
+      "path": "macos/osx-arm64/stage/Install PaperLike.command",
+      "size": 400,
+      "sha256": "801a7aa92e9b7c8d298eb3451d12a496ef5831f5b3c47429951d2cc32a2338d6"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/Info.plist",
+      "size": 733,
+      "sha256": "b100779f53d431938b9db45861fd078a909b5f2443fe917487faf89b628b90cd"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.Base.dll",
+      "size": 2356736,
+      "sha256": "10f1e2633a5776d79807aeafcdccd8990dd8296b6ff6b16914ae441439dbc230"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.Controls.dll",
+      "size": 1351680,
+      "sha256": "5afb5aa5dfdb05914e021c7ef750d9a57505736960766d6fa88b60e01d659af5"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.DesignerSupport.dll",
+      "size": 214528,
+      "sha256": "2f43b1b0df344100ebb4ee0e828a8417644118af1a41de25b44fd9ef169c019c"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.Desktop.dll",
+      "size": 15360,
+      "sha256": "e85fa49a6834fa8e7b05e4cc83c3ea23b4b89ef5b7f0591ce66b1d7854e3e118"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.Dialogs.dll",
+      "size": 242688,
+      "sha256": "a9208ade8be7a3daf0203b89fc40574c22e0596fb77bcc13eb4d07eb22cf4c32"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.Fonts.Inter.dll",
+      "size": 1892864,
+      "sha256": "2fd1bbf9b6c62b3b6deee6257fddc70e9efc9c36dc225bea08f999d3f4f661c8"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.FreeDesktop.AtSpi.dll",
+      "size": 562688,
+      "sha256": "df4d3a06c790d89b74fe5a2ae8e2ba7f2814c61c82c66ea14d3fe846cc2932c4"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.FreeDesktop.dll",
+      "size": 256512,
+      "sha256": "7c19c897080a208122a6e545a79818091d36cb82e3c005ccf36d09efa7492eac"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.HarfBuzz.dll",
+      "size": 22016,
+      "sha256": "62cecb41cdad1ce91bea3a70a4d6a2d0991eea23a97299cf968fc0d84369cde1"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.Markup.Xaml.dll",
+      "size": 74752,
+      "sha256": "b085cdeb5eae603cb284c626ba0d069be902a8c301767dce566b075421c955a9"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.Markup.dll",
+      "size": 45568,
+      "sha256": "0c37cf412bd2ae8ed65df58102f51cd29c6e4722a7389084d7b9e4bc56b7426f"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.Metal.dll",
+      "size": 15360,
+      "sha256": "88e3ae4c031e6d7eebcfeea9e36e5e11162e067e3c4312de94ee4fa6e7e55f26"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.MicroCom.dll",
+      "size": 15360,
+      "sha256": "a35da409659bbc7fe1568bc6b6b0fca8495c8a9b9feecec469a433c76f8ca36b"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.Native.dll",
+      "size": 352256,
+      "sha256": "95489e1f24c9c816620df9586f186c5eb18480345f7401d9841af00acee14240"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.OpenGL.dll",
+      "size": 128512,
+      "sha256": "1c674f1f909d26eff224893251462a8a4c73e24b9c4c7057210ceca88b1916aa"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.Remote.Protocol.dll",
+      "size": 75776,
+      "sha256": "6daf7d6e4c3aed5474817b7385eff844e1a3db3fdc91c56b7f65bb01dcffd769"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.Skia.dll",
+      "size": 125440,
+      "sha256": "363e384409908043cfab4e9d58b89ee988e9426bba7c4d3235d40cbe75637d6a"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.Themes.Fluent.dll",
+      "size": 733184,
+      "sha256": "4edd7c6111992b0885afcd2115b571e4b5b25345d9bf07601d1087ac06e02e38"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.Vulkan.dll",
+      "size": 191488,
+      "sha256": "10b3340a7e543a47b2e7e6c5d4aa3a7f8b14852132aa4fb64d98b539adcf3f84"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.Win32.Automation.dll",
+      "size": 124416,
+      "sha256": "da1da0aa60822a9cae8fee3852abc84b45b8061c74c92f3a5dd20f740fea2406"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.Win32.dll",
+      "size": 963584,
+      "sha256": "77061ab9ab28aa6d23a665d92003cda01151c7560349c5b3877a7f6abdd3744b"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.X11.dll",
+      "size": 408576,
+      "sha256": "c3051166a1e4132cfde651ec88e0414a0a79093c7be8f29387015dc895898408"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Avalonia.dll",
+      "size": 4096,
+      "sha256": "7517904f146bef9971c4eb2090aca5e590d51c99762f6d33715fbe444769d38b"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/HarfBuzzSharp.dll",
+      "size": 122400,
+      "sha256": "55e72ac23263f8e12484f3435e02ec22fac9eff6e6d169bb0a8c246be6b99d29"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/MicroCom.Runtime.dll",
+      "size": 15360,
+      "sha256": "2538ec6f3c24e901a90e33c37788b9a4e4b6ae8158cab7328a00a00bb28eab9e"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Microsoft.CSharp.dll",
+      "size": 892712,
+      "sha256": "04db04b7ff649cade0b326393d710615cf4ae567ad3b2d7e1e3cef2ed4df514f"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Microsoft.VisualBasic.Core.dll",
+      "size": 1334568,
+      "sha256": "ef68e44c2f6af4bf45bbf204f9338eec8a36953c8215c41092db8d28c31af89c"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Microsoft.VisualBasic.dll",
+      "size": 17232,
+      "sha256": "ca937fb780ae935eaacf0f7d7f6206a203a47890adc47482b3b87fa87d0e8784"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Microsoft.Win32.Primitives.dll",
+      "size": 15656,
+      "sha256": "cee26c81e68011ddb7604c241c018e6acd6a3209450efae01406815d18d3817c"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Microsoft.Win32.Registry.dll",
+      "size": 34600,
+      "sha256": "d427e316d886c3b979b384e63f5d90e6eabd3e20e2ad96d8ebedec88d6c379bf"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/PaperLike",
+      "size": 124032,
+      "sha256": "af519260e713fbe8d4f8912121d3d08a6e4a67bfdb85644aeac729be6861769e"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/PaperLike.deps.json",
+      "size": 40057,
+      "sha256": "8782b20107758f8766397ed4edd7286b7ee61ca50c601d844d2f9b3b2973ca4b"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/PaperLike.dll",
+      "size": 110592,
+      "sha256": "09f9bbb5aa10040dab47e3c1cc675c914081154d8f6d298f3b5dea8ee5683bff"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/PaperLike.pdb",
+      "size": 22304,
+      "sha256": "86aba6ab5345cef2d519aedac7ac90178b8018ec78c2c1645573c512cbe73fb5"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/PaperLike.runtimeconfig.json",
+      "size": 360,
+      "sha256": "542c92af19efa01d5f899547dda634acddfdd16ff03970f25584a81ebd3f4a3d"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/SkiaSharp.dll",
+      "size": 489824,
+      "sha256": "aaaaa18c68ba1f3a3408b00dff28b11d5705198e17ba9d3aa59222bfd35407c8"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.AppContext.dll",
+      "size": 15184,
+      "sha256": "bbc9a42d0e04997321f97634a22718eeef844a21e3da9423f8fb98b432a590fd"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Buffers.dll",
+      "size": 15144,
+      "sha256": "3a74e6999c120b343ba26264eb6ddd832bd05f34edb7e77326754b25d6b45a45"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Collections.Concurrent.dll",
+      "size": 254288,
+      "sha256": "e4ecfb566f7f0bc97ce50efdca414973416523f1b0bcf55067c29deac476af1e"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Collections.Immutable.dll",
+      "size": 1117008,
+      "sha256": "7d280bd2b5d2421c0db1165cdcc9c83fdc0b06d670b29c4f420fe549816dd572"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Collections.NonGeneric.dll",
+      "size": 104232,
+      "sha256": "20b455ced28ab53e3f4e50055e2fce3e58f6eda3f6802a3b97fb24caa4744001"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Collections.Specialized.dll",
+      "size": 105256,
+      "sha256": "ae5021ac2fc07f640404c60f9adb71dd0691e55d87637af83fa397b5eacb39e4"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Collections.dll",
+      "size": 328488,
+      "sha256": "3eaa30121ed216edea89b71672e117ddd7dd72107cadd92bfa0a965ee63bb342"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.ComponentModel.Annotations.dll",
+      "size": 215848,
+      "sha256": "c2066535a50d10d5dcc434f725b91c0139475504544e00c3dd1fb3585f4e8478"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.ComponentModel.DataAnnotations.dll",
+      "size": 16680,
+      "sha256": "a655fc8e4609479c49ae7c6b141107c6d37aff906c0fc05fe1d8fc98fba07932"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.ComponentModel.EventBasedAsync.dll",
+      "size": 39208,
+      "sha256": "113ab591ba1b72536731cd316bde403a0db5ff94098cd8dd54e1434926a148cd"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.ComponentModel.Primitives.dll",
+      "size": 80168,
+      "sha256": "bdb5c8adc360761a7bf6757244115a8324af70f6f176e45d4d017d5acb1b4e79"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.ComponentModel.TypeConverter.dll",
+      "size": 873768,
+      "sha256": "a0fcf623e11d5b9ae263a70ee15c1e2df6cd3395c674aac6db24a1e670e0d79b"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.ComponentModel.dll",
+      "size": 17232,
+      "sha256": "3df1b02c98ba637382437bb75c0d3a89f42d3d57f529ff660b323fd21058a5d7"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Configuration.dll",
+      "size": 19280,
+      "sha256": "b8dc0bc84bf9ff39d46d49c88f06e069c987b9ffc2d53afa9431aa4e87c930f6"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Console.dll",
+      "size": 226128,
+      "sha256": "9ce446d0891d72d07fd8b6875ec29101169923d1a8e2ba6192701cc4bc3266be"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Core.dll",
+      "size": 23376,
+      "sha256": "329ec2703a2855b45fc0a65ba328491e5b24115289fa434915a11096e0a6d46c"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Data.Common.dll",
+      "size": 3228968,
+      "sha256": "3f56fc9d06a55fd6c4feb31085e148374debe970012468c999255492a948dfb0"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Data.DataSetExtensions.dll",
+      "size": 15656,
+      "sha256": "c6aca75d9c7edeceae1cc5bf55d3a333b631b1eb8e78822517f1e4b9ecdef7b2"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Data.dll",
+      "size": 25384,
+      "sha256": "46333b50e1b2b7ffb2dd29d2c7298e9c5047eae6b45fb9f158abb09d289a3007"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Diagnostics.Contracts.dll",
+      "size": 16168,
+      "sha256": "9a9559204656fdc83300bcef5e182017ec42c4bcb6517586a1739f4342c6a3eb"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Diagnostics.Debug.dll",
+      "size": 15656,
+      "sha256": "bad63f638684b657b0af67af284eff497f1b343924375fa0400fdacd90bfa8ac"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Diagnostics.DiagnosticSource.dll",
+      "size": 558416,
+      "sha256": "aaec3bc3ddb9d4e2761b9479a691da16cdbebb7c65d9b169e57ea3aafc721a91"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Diagnostics.FileVersionInfo.dll",
+      "size": 45864,
+      "sha256": "7b191e3cf2bc19b6555c7c19ba206a8fca906f015c3e29f1fd4bbf6c0efb2935"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Diagnostics.Process.dll",
+      "size": 271144,
+      "sha256": "c9d2ac082d6e73071ca607d4217c3c5265d6ac2dc66aafdbedc39b10922d660a"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Diagnostics.StackTrace.dll",
+      "size": 35624,
+      "sha256": "ec47df2507d93a6a6e62d57775e139cdc5351c628f3b10c26d75c4e0480f385a"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Diagnostics.TextWriterTraceListener.dll",
+      "size": 65320,
+      "sha256": "9848840595c9c44af2bc62f318efd4735c95a569f44de0a0aa7040702da10dcd"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Diagnostics.Tools.dll",
+      "size": 15144,
+      "sha256": "de255dab74e804a22cd05f7d0dd1647ab5deea1a63b444d13849348f9c110782"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Diagnostics.TraceSource.dll",
+      "size": 150824,
+      "sha256": "7e5f9f162dcc7ecbdc120e1571f80bde365ac69133517e7c49d5ab49f678d106"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Diagnostics.Tracing.dll",
+      "size": 16168,
+      "sha256": "5d25a578c91ee7ccbc0a3459cdcc19f82084927413add4327b396dc5db5734a0"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Drawing.Primitives.dll",
+      "size": 128336,
+      "sha256": "4eaec56c03578eae28c63cf99eed3f8db3c1c55b5c1ca7b3a5926ac4cac3282a"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Drawing.dll",
+      "size": 20304,
+      "sha256": "491fd789964f6f9a784e113ebbe4f41421de1547c114c0aed9e5a1e427747786"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Dynamic.Runtime.dll",
+      "size": 16168,
+      "sha256": "91a6e6a60470a4f3e7f6e9169c248ca8882360d763d489b51d12caa6bdedc1df"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Formats.Asn1.dll",
+      "size": 249640,
+      "sha256": "770fb07c1d68bb4c70c9f9017f3007fbb0d331ca640e1664defb6aa29d63d213"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Formats.Tar.dll",
+      "size": 310056,
+      "sha256": "7e8f2ae6a723eb09f359bffb8e8bc136b0d0348d42165a2c098d84d5d58deb88"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Globalization.Calendars.dll",
+      "size": 15656,
+      "sha256": "c88ba12469c921a1ce0ff2c989e4b75f4d6bbab5ebeb6a428495a9a831d143ec"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Globalization.Extensions.dll",
+      "size": 15144,
+      "sha256": "24901beddbbdb64bdbe1637976061676e8a122a0236ff376646d1b9e4e14bff1"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Globalization.dll",
+      "size": 15696,
+      "sha256": "806b6cbaefb7384063384f21e9bcf485ef00cff97567553960a091019aa43772"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.IO.Compression.Brotli.dll",
+      "size": 82728,
+      "sha256": "412bbd81acc3a125be9dbdaf0dd09e96cb146e317dace5339fbd169a697a8272"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.IO.Compression.FileSystem.dll",
+      "size": 15144,
+      "sha256": "d74815ff7e6aa8be448c993e9b7c25e0f808a37f29c757f939706b4f50638a7b"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.IO.Compression.ZipFile.dll",
+      "size": 105808,
+      "sha256": "e02cbf788d2b2b71f417a0070b0ddf913d12a2904e9ffa6809dbc43941b26d5e"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.IO.Compression.dll",
+      "size": 463696,
+      "sha256": "8734713c0e784050accd0c9bb411f4cc44b4ef2c639fafc579ef8513ae901b1e"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.IO.FileSystem.AccessControl.dll",
+      "size": 33576,
+      "sha256": "04595960d448e2336a96761db2f6b931b9c21e747c39335d54bf54f1f4b53109"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.IO.FileSystem.DriveInfo.dll",
+      "size": 91984,
+      "sha256": "f4c89105b9f9ef88a2ee1a8f0cd94e66991437b4939acf05929ee7b879c0fe4b"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.IO.FileSystem.Primitives.dll",
+      "size": 15184,
+      "sha256": "94b71083cbee5b6932bd0f1656cfae7c98fa19a5c3b832f08980d34107f33e43"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.IO.FileSystem.Watcher.dll",
+      "size": 121680,
+      "sha256": "96f0b36c02891589c4a4d49fd5db5eed2ae8246e567cc921fb2cb0134ad13b36"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.IO.FileSystem.dll",
+      "size": 15696,
+      "sha256": "3d4ccd6dc8f67f612f96dc3c6f789d93be6ec6e8094a2127c773d42d57a3e24c"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.IO.IsolatedStorage.dll",
+      "size": 83752,
+      "sha256": "da13ed332d7eaf6833db543d970f59eff2c10bf4895e26767a5ebf61b74be4fd"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.IO.MemoryMappedFiles.dll",
+      "size": 96592,
+      "sha256": "b6c1994a509673ccf5e701fad79d94375c24534641ef24861b9f7001ed39e1db"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.IO.Pipelines.dll",
+      "size": 197456,
+      "sha256": "9169454dda20d9e4d09ee8ede45d7a23d9b89ca10a36c5c5710bbb64305c9dd9"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.IO.Pipes.AccessControl.dll",
+      "size": 24400,
+      "sha256": "500f9d729881c3d7394ae1e2f29b382cdab3089e5c2ba135c189c68307f2458b"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.IO.Pipes.dll",
+      "size": 146256,
+      "sha256": "c9157764a02f5f57c2df36d2094d33d25e86c951c9f9fe6752ed4e48b7324dd1"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.IO.UnmanagedMemoryStream.dll",
+      "size": 15656,
+      "sha256": "115bff4e2de364cd19d18d89020688013f031a7cfb6f4c2ed736592a125b582f"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.IO.dll",
+      "size": 15656,
+      "sha256": "0760612d05a9031d0cdac055bf227a0a24f91baae050c8bbb1228e2a01099f7f"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Linq.AsyncEnumerable.dll",
+      "size": 1492776,
+      "sha256": "57460d4fb09360a742f356d8df19fcdd0604ac27216b79cc62768af23853d354"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Linq.Expressions.dll",
+      "size": 4650832,
+      "sha256": "8eddf96de3b3c2494f998a3634a158142ff1d35137f57be0743437daf9a3841e"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Linq.Parallel.dll",
+      "size": 892712,
+      "sha256": "546e27ef759ab9de305e6087423c0def59eefe4683785202480d16f510dead40"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Linq.Queryable.dll",
+      "size": 213288,
+      "sha256": "5da3cb9d51834843f3564015353a420831cca97808171068916664f6422e3bad"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Linq.dll",
+      "size": 794448,
+      "sha256": "8a868d709f942f2d8de60bac937027ed85b67b0596776f83d03088695ef86204"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Memory.dll",
+      "size": 164648,
+      "sha256": "da5c971f6f5daa73542d4173ab5b756d295127ee1b37216aba572f89e459bf97"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Net.Http.Json.dll",
+      "size": 129320,
+      "sha256": "b10dbb6be546677495959b4d83e43fc772b20542f2185d95fc354c064908734d"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Net.Http.dll",
+      "size": 1966416,
+      "sha256": "db9af579b0b075f5056fad918b72f78cfba37516b65467dd1d10645cd307ed5a"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Net.HttpListener.dll",
+      "size": 329040,
+      "sha256": "acce33069bc472adc4b899ebb9c67622eec1eb57fd7b88f409e4325d8718eea7"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Net.Mail.dll",
+      "size": 544552,
+      "sha256": "64cd039b15b759a275ed3ac02456df94e9021d2afc6c7a791a706767a0c5b7de"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Net.NameResolution.dll",
+      "size": 109904,
+      "sha256": "617d7c316354051b42e0430b44aae949f55628396b0a543a1d24bb63d12a715d"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Net.NetworkInformation.dll",
+      "size": 154408,
+      "sha256": "64a24de4bcf4aacf3cfc35b390262ff7891a68ed9f4df40ed72074630686ca48"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Net.Ping.dll",
+      "size": 99112,
+      "sha256": "b587ae9b66df2b90aaa24095eb0fdd00f9a764069e484a082843fdbf3d58b0f1"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Net.Primitives.dll",
+      "size": 244520,
+      "sha256": "2afde47b49fbed90f7c349310e3d94586ed4e09b91ed14ac4fc27b32ea6537e9"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Net.Quic.dll",
+      "size": 386344,
+      "sha256": "73ddac14a9c83f00f3cea0f56e57ea2b788d81f2efe2c0455c211c1e80baa269"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Net.Requests.dll",
+      "size": 420176,
+      "sha256": "8335dfcb18ee2696845a6ea98576c357f54db74615fca3185c025aa0581e5085"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Net.Security.dll",
+      "size": 861008,
+      "sha256": "24ec841124fa80d863e2fa9516c33bad9327a40614f286c9a217a338ab26dd8f"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Net.ServerSentEvents.dll",
+      "size": 77648,
+      "sha256": "c0682f8405fde5ca0422eaf1e372cec7d0f2891e1bb24ef54e6cf6331ff97e28"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Net.ServicePoint.dll",
+      "size": 15144,
+      "sha256": "eb53fe6d6f2b31683c403d7618ba42363e5e48b75d0d286851c05b56c9ea0006"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Net.Sockets.dll",
+      "size": 702248,
+      "sha256": "46d7a7a84a774231735f793e8854bc0f3b71082db75bbf1596a089f1890e7f28"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Net.WebClient.dll",
+      "size": 175912,
+      "sha256": "457b25e9e488e37670d4538a9b361aa68f5fdcdc5687e3137ab4d48f25a9bf22"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Net.WebHeaderCollection.dll",
+      "size": 62288,
+      "sha256": "014e7ce53d379bb34a8b62c413172b638c75dbd39c8a3c980c05c70037bf0488"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Net.WebProxy.dll",
+      "size": 34600,
+      "sha256": "66e5d95b43c27ee89cf076ee4e74fe59395ddeb0aee10351374330c845f79872"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Net.WebSockets.Client.dll",
+      "size": 99624,
+      "sha256": "9225e59380d40a2210e54733af8b550b88d9f578ccb1eb2d4c7e0f5ab1698c09"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Net.WebSockets.dll",
+      "size": 260392,
+      "sha256": "71fed8a8b7a0292bb2cec412c195f2663526826efc47e7165014b19f1b7d19f2"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Net.dll",
+      "size": 17232,
+      "sha256": "112284c970170a0c849f23826ae1806dcf83ef99cc11dafdf6240a656d43218a"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Numerics.Vectors.dll",
+      "size": 15656,
+      "sha256": "0943de0053553e038b4d55dd542dae3c903b2cc86bad550360b3b94d1cd4f590"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Numerics.dll",
+      "size": 15144,
+      "sha256": "58cb6c0e4500a0a6a62679aa00846fccdafa8e7ef8c8296b49607aee21baa94b"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.ObjectModel.dll",
+      "size": 77608,
+      "sha256": "11f5b5a449ef78c18ebbae268387bfe389001a6e4aa21a3fbdfd842126106fe2"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Private.CoreLib.dll",
+      "size": 17088296,
+      "sha256": "7adbb705a094d8d6d4238cbc80f3dc6be17177384ce836994485bc5cbbb1d281"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Private.DataContractSerialization.dll",
+      "size": 2397008,
+      "sha256": "ff8d348ccb92e276e0810a35d2d0b501894d9e70040f43fc7244416ca9555d66"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Private.Uri.dll",
+      "size": 265512,
+      "sha256": "475f8bea8c3bebeb0b3e07e7767f7daef2011d7ca956358bad9b3d34f55e7181"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Private.Xml.Linq.dll",
+      "size": 441168,
+      "sha256": "8b9b9947f840ab66d47433aa005182012ca6b5afd26f0230a25dfa309c964856"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Private.Xml.dll",
+      "size": 9002792,
+      "sha256": "4a7cf5f627e1d795455ccc8caba8d59b5256ddee446b3be82d922322ee750240"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Reflection.DispatchProxy.dll",
+      "size": 72488,
+      "sha256": "5392218379f3317ca36a0453135eb8518363447beb6bd2d5c039b1c2b9b23fc5"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Reflection.Emit.ILGeneration.dll",
+      "size": 15656,
+      "sha256": "1ab8bf99e1adff2f7f58fe2cf0a9631c2b550809a8e979fc1f100f636777908d"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Reflection.Emit.Lightweight.dll",
+      "size": 15656,
+      "sha256": "013f8ce0f29fa8d140a1055b02620a4eac66497578c0fbf976e9813f2e2b2112"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Reflection.Emit.dll",
+      "size": 344360,
+      "sha256": "123201e4e5c19a7047af207e3c159718cc42ccbd2b03ae84df68a951b3669a4a"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Reflection.Extensions.dll",
+      "size": 15184,
+      "sha256": "b8fcef43452ad977beb7012ff209d33352ee1f3d6aeb1a92952acb5c6e49213e"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Reflection.Metadata.dll",
+      "size": 1276200,
+      "sha256": "057c75e085164274d8b3f1f232b7de8f437c66cccf76afc46096d10a4250b1c5"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Reflection.Primitives.dll",
+      "size": 15696,
+      "sha256": "bf31345869121fe4b21ce9134be3afa7cba79bf31a7375b67930e99dc49a9973"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Reflection.TypeExtensions.dll",
+      "size": 34128,
+      "sha256": "a3c288a0cbb2801ba05152df911c8a4f93c979f6bd505895aea08ed161f966cb"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Reflection.dll",
+      "size": 16208,
+      "sha256": "3f172fd5b152cc91dcf77dc9645306f861c9ac2dcfa7c8a11c80f689fbea05fb"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Resources.Reader.dll",
+      "size": 15144,
+      "sha256": "fb121053b15454568cac64637a4fafa2c6328762923a271a6d0e96337d771d70"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Resources.ResourceManager.dll",
+      "size": 15656,
+      "sha256": "6491ad2d48893b3747f289b153d76735e2a2c860a4fbc4dc46dae17484a69f41"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Resources.Writer.dll",
+      "size": 45904,
+      "sha256": "ce0927500bd4956432de55bd69330b7dccb21be8fd94fb654ce41d9678a751af"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Runtime.CompilerServices.Unsafe.dll",
+      "size": 15184,
+      "sha256": "990ae8f30054969ad3957acb5836c4fd0c09cf26a38c1419766e9461af3df2bb"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Runtime.CompilerServices.VisualC.dll",
+      "size": 18728,
+      "sha256": "36148fce8bca2703551ccc149b0875d6505944791e8203e9742c569b55e9a672"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Runtime.Extensions.dll",
+      "size": 17704,
+      "sha256": "0dfea5ab8a249d11c0db40691224bbcbd06ba36074c44b8992c42b5a93599592"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Runtime.Handles.dll",
+      "size": 15656,
+      "sha256": "3dd0f49d03628c113ed85f324cc861be078d5f4f35c305fbf45d32c4bf62e3d0"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Runtime.InteropServices.JavaScript.dll",
+      "size": 39760,
+      "sha256": "bc71cbf2e121c5902fa55d440a37148b714b4fcc2c42a80334373ee56a5b3797"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Runtime.InteropServices.RuntimeInformation.dll",
+      "size": 15144,
+      "sha256": "340cbe2ab5d019148b965a71b24518cb468c804de2cc70654d2b4186f181e9f6"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Runtime.InteropServices.dll",
+      "size": 111400,
+      "sha256": "34eabc205b2b2d4f7517e0887d758c7a50b7981ca302e7535e6ebc5c5edb4e91"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Runtime.Intrinsics.dll",
+      "size": 17232,
+      "sha256": "1c9efd51448ac571c32d865f522372479c20733a6febbc64226a3c1df1274c24"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Runtime.Loader.dll",
+      "size": 15656,
+      "sha256": "1bd5eb9e1d8fc35f1cd6c64b7045de992efdc6c5ab0f2aed96126bf76196c1ab"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Runtime.Numerics.dll",
+      "size": 366376,
+      "sha256": "ef5091a9831ecacabbec02815aef630a57643401c0be408eac3eadbbd29ab0d5"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Runtime.Serialization.Formatters.dll",
+      "size": 128808,
+      "sha256": "b776f70c4dca346e96297c9943446bb892011a1400521c5abe512131c82ffaa4"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Runtime.Serialization.Json.dll",
+      "size": 15656,
+      "sha256": "257919b12a0054b8436a5202649a70233a2b87ce27c1a08e608bc552f46206dd"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Runtime.Serialization.Primitives.dll",
+      "size": 30032,
+      "sha256": "c1e9b1816362a43696c5d3f49e44313c174b81b5a6e772237e043c28f4242b2a"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Runtime.Serialization.Xml.dll",
+      "size": 16680,
+      "sha256": "b548b44c19b1d3e157067a529a71d4d335a70066635219b1dcfd53b427c66779"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Runtime.Serialization.dll",
+      "size": 16720,
+      "sha256": "1e43cbf5f68b0ea0e45721bb086db7fb019ace758cba18d943526881d1e19214"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Runtime.dll",
+      "size": 44840,
+      "sha256": "2380e215ff5a0479bc32a652f429110029cb475194b3f13aa122322cf7ac6a73"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Security.AccessControl.dll",
+      "size": 59688,
+      "sha256": "2384480f3ca5cc9bce37c5e4567f4c27eb5b540e5af596f743b2b836761a7f12"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Security.Claims.dll",
+      "size": 102184,
+      "sha256": "ad7521e028e9f7db5ff4de5755451d9205eb2f85070a574c62313f13e28a21b2"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Security.Cryptography.Algorithms.dll",
+      "size": 17232,
+      "sha256": "11128bd6dc037da7c64fc530e1b0ae277a08c5254f5e1aa076d8f0d9d0797fa8"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Security.Cryptography.Cng.dll",
+      "size": 16208,
+      "sha256": "19e6c573b6ec71266aad1af57be6a7bb45477cd8f204dfd7b7c07da996d41cc6"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Security.Cryptography.Csp.dll",
+      "size": 16168,
+      "sha256": "4196b47196c6636d5a6db9896e081e90f8438803ebfa75afaf9bc827e54b4283"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Security.Cryptography.Encoding.dll",
+      "size": 15656,
+      "sha256": "35213d2d4da1f9c546822e24531f667d0c4146d1ecea75a5ca04e3cfb7a29bca"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Security.Cryptography.OpenSsl.dll",
+      "size": 15656,
+      "sha256": "a68fa83f2c75effdca5415e4859452d3f2c3c581e9b6da7f74984a7933b6c3e4"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Security.Cryptography.Primitives.dll",
+      "size": 15696,
+      "sha256": "7c17f3b2cf35d0b6b059d4c35aaa4437c898ba43980d0f8f647f8c9116b03724"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Security.Cryptography.X509Certificates.dll",
+      "size": 16680,
+      "sha256": "faae5423eed2bf2a542d7a96ef61a1f3fdc1637e349f3d083bcd8106044b50e8"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Security.Cryptography.dll",
+      "size": 2459944,
+      "sha256": "561e91d77035c41e0e6cbd18bdeb84cbe601f2e92f115194a31be4941299d96c"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Security.Principal.Windows.dll",
+      "size": 39208,
+      "sha256": "8ea597bb3efe0b3d92e72381329dc416a81449fcb93b487debb7aef3c758541f"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Security.Principal.dll",
+      "size": 15144,
+      "sha256": "3757dae8d1a40a18c49a77976487f221a18e2b6efbff7f41fbc06e13fb2a926d"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Security.SecureString.dll",
+      "size": 15696,
+      "sha256": "60aa66f0129af371a532d09c893f14ba6a26652bc5f846f46891e0dcdda7f887"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Security.dll",
+      "size": 18216,
+      "sha256": "973f706b1fbe0ec9a1f93ac7de6da640ae2ed0a6458fc6bb87e4938a74b5ae43"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.ServiceModel.Web.dll",
+      "size": 16680,
+      "sha256": "5813bed53081399829e1fde1e5e6115e055ca217ea8c0a8bcdf13be2cc6bcd44"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.ServiceProcess.dll",
+      "size": 15656,
+      "sha256": "cc6624133f331e7e1c4c0ea22c94fe46aca26e9be497d71f68090647631f2d87"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Text.Encoding.CodePages.dll",
+      "size": 869160,
+      "sha256": "57ffb9bd4d63b439407dbffe000ac101be344449c377f4fde2728c0a246a2f75"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Text.Encoding.Extensions.dll",
+      "size": 15696,
+      "sha256": "b260d73a3d90767968eb84342ebb6f3d8a4a45db3acec4a10d63b7010745f4f6"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Text.Encoding.dll",
+      "size": 15696,
+      "sha256": "e2bea8489263180f0def9375bd6dacea87770d1048db146b36352ed63129ca73"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Text.Encodings.Web.dll",
+      "size": 122152,
+      "sha256": "0faf0efb04096971efebe7edb4651be0eb95037169d7748185cda1b89126681a"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Text.Json.dll",
+      "size": 2101544,
+      "sha256": "5e8419f146b0fd12343fdd2d203fa3362b637b62b69a5a6d0acb6e065797382b"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Text.RegularExpressions.dll",
+      "size": 1159464,
+      "sha256": "d8ab4f9feed906b96e6a44321e3d9b1145084d770b6b7cdba6139c218bdca151"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Threading.AccessControl.dll",
+      "size": 34640,
+      "sha256": "7c57e4f844ebb4da34ec9a1201a3bacb3e6354fea707f3ea5fe28dbe633ffd37"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Threading.Channels.dll",
+      "size": 165200,
+      "sha256": "c67157d6169bd4103a8c656a89e104893e120f8ef86b333d27f75004fea4b765"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Threading.Overlapped.dll",
+      "size": 15656,
+      "sha256": "a3d0efa8d7b7b8d5ef71bf474a863b5f13fb9a320495885983d7b09029cfa0ea"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Threading.Tasks.Dataflow.dll",
+      "size": 532264,
+      "sha256": "b39398da6c923d0c48466341196d4300787180f64b7e030cd4704844359cc94f"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Threading.Tasks.Extensions.dll",
+      "size": 15696,
+      "sha256": "d23ad857040cbb3f2e2867c31c1fb5556b5531495ed0cb00289372d63fe1bca1"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Threading.Tasks.Parallel.dll",
+      "size": 133928,
+      "sha256": "e8bad7ac7b943d647a3a37ce0f56e5795d3480e10065c8226ede4776edc46f7e"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Threading.Tasks.dll",
+      "size": 16680,
+      "sha256": "ad2a12f1c181a447cf91242ea87f0a4d6f786ec8c3c814163dea787abc70a800"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Threading.Thread.dll",
+      "size": 15656,
+      "sha256": "21975fa675a9f5310ff95766bd68a5a3391c789b92ec592901164f69d5b36250"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Threading.ThreadPool.dll",
+      "size": 15696,
+      "sha256": "0ec992e8a8d697704c5c336643f2773127f5c106337bd3dc07cae88d4cacc067"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Threading.Timer.dll",
+      "size": 15144,
+      "sha256": "661ba8771ba837d247bcb1926cddca3b1a79ce431b4e3ab1167834df7911afc0"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Threading.dll",
+      "size": 80208,
+      "sha256": "91d6a209e84d9716a3c702c580b3b50abc4092edbfae95b4b8d9daeefc8b932d"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Transactions.Local.dll",
+      "size": 400680,
+      "sha256": "1ca82252e3341e079ac5c92476d9fca071150ecad4d944e94e705b47b8078bb5"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Transactions.dll",
+      "size": 16680,
+      "sha256": "2e1f82f867388e4669fd93336ba00b1fad6533c77a49a772d57249a50b064b4d"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.ValueTuple.dll",
+      "size": 15696,
+      "sha256": "b56ad5c8c8d4dff8f3d090de1d9fa78fdfd8e20feabc02d56a4ed915359185ba"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Web.HttpUtility.dll",
+      "size": 56656,
+      "sha256": "e62b4b8234c1ee2d0057c0d9bf4c68755c8e780b8a2503c665ab28e8e906f95d"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Web.dll",
+      "size": 15144,
+      "sha256": "7d93a9193040d90bbc572d573018b331a2a0a6ec5f61dd9a48f06494546031af"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Windows.dll",
+      "size": 15696,
+      "sha256": "24079b7a07ebf934263b027afa3d8dd90ee3ef98b6709f5b7ac68b13e34ca086"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Xml.Linq.dll",
+      "size": 15656,
+      "sha256": "9c6c2ea5e1bf742e0224bb346cdcaf4bee836f7ee3767d66f4b03bd6f9a37245"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Xml.ReaderWriter.dll",
+      "size": 21800,
+      "sha256": "a837a85a76a404a5a72d4b437e38df5ec080bad361f0f333142d896a9690794e"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Xml.Serialization.dll",
+      "size": 16208,
+      "sha256": "80dd0a381258236f6fadeb8f596694a47e7b70bbf2d46f31bdd41325dc2b8da3"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Xml.XDocument.dll",
+      "size": 15696,
+      "sha256": "4615129a8f8fade4677b55d8cf6855da7548c1ecaa7326d53cd0d3ff54c4d88b"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Xml.XPath.XDocument.dll",
+      "size": 17232,
+      "sha256": "ac0c13b69f50f5addd477d4f902f74cf0fc976e9da7ba275c36a9ab05886e084"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Xml.XPath.dll",
+      "size": 15656,
+      "sha256": "33d39d58e8171202206a06097fbb7636120da6e63abdd559433948f685cee553"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Xml.XmlDocument.dll",
+      "size": 15696,
+      "sha256": "6dbe5fbf786939e4df248ec79965d6ddb21d9fd4f78bd2cb157c17d71cb47f49"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Xml.XmlSerializer.dll",
+      "size": 17704,
+      "sha256": "30c5081c08bcfbcdb27bed43e6634014a0bf807f750eba36f9d681fc408e0ef7"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.Xml.dll",
+      "size": 23336,
+      "sha256": "7ade32876e27f5a8da54dcc0ace10fa12e4c935083bd40f8ad3fd68d311114df"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/System.dll",
+      "size": 50472,
+      "sha256": "56a4c3118c3479e409d1cc38ec5f0ff4e04aa13742cef3b00d631100308a3e05"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/Tmds.DBus.Protocol.dll",
+      "size": 232960,
+      "sha256": "60a1c5255731d8ac843cab53108be8ba1ed02759ce3db0da5b49939ebe97bd8a"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/WindowsBase.dll",
+      "size": 16168,
+      "sha256": "d9b68fb78f401ed57cde8a5592c943446351e6fd43fa260637a2aa2a69394a56"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/createdump",
+      "size": 171456,
+      "sha256": "d3ff9f72f0916961d4a9d483e425a3c8010419aca116b9926a9625a9b3175c9e"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/libAvaloniaNative.dylib",
+      "size": 1531232,
+      "sha256": "189254b4cefbe8311f4f89c09416174521c028986d4afadf787525ca72bada31"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/libHarfBuzzSharp.dylib",
+      "size": 2848736,
+      "sha256": "9a727a25e1c91f30ed2ca0ae12fcb5d8e1313ae41097127dd8189b80b1ced483"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/libSkiaSharp.dylib",
+      "size": 15094304,
+      "sha256": "f620155fff761a8ed2fed06ca5498b498ba1990c62f0c68e5ded2da942de68e5"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/libSystem.Globalization.Native.dylib",
+      "size": 121376,
+      "sha256": "b064f21c4fef93e62013429b5ea494d3ee4f58cf5fe1a924514ebe1674f5053d"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/libSystem.IO.Compression.Native.dylib",
+      "size": 938512,
+      "sha256": "9b7036ab0a278553214656889420f346b442c0679ef355f8dc129cc8d3bee64c"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/libSystem.Native.dylib",
+      "size": 128144,
+      "sha256": "833c127a5dd94a8c6d884a2213530d49ed70c8b0bdd801deaf008e923aed3e84"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/libSystem.Net.Security.Native.dylib",
+      "size": 53136,
+      "sha256": "bde65631280d9143d40ebfadd19d417db749a73bf6c43fd5ce7fe5c48d80b893"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/libSystem.Security.Cryptography.Native.Apple.dylib",
+      "size": 150224,
+      "sha256": "794356105651e3a1c9e6359fd8e070c261926d7fe8721ea8ca6620a18a4f6bc3"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/libclrgc.dylib",
+      "size": 866128,
+      "sha256": "355173da44c807b99d5720084b909dcb35166c58f539ef67a659ea8678898507"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/libclrgcexp.dylib",
+      "size": 944688,
+      "sha256": "dc0de84346acbc2900a4fcb11c51bb3fb4cf174b0dad4b2a052723f777a48e6b"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/libclrjit.dylib",
+      "size": 3050416,
+      "sha256": "b273336e938702bde6275055cdccac57af15331d58e2e50da4c39af50827d183"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/libcoreclr.dylib",
+      "size": 6148992,
+      "sha256": "cf20f9a7d7322dea7375fac0b71b5880494b647678382310f2e2adc22ca7f6d6"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/libhostfxr.dylib",
+      "size": 390176,
+      "sha256": "852e7e174cc36aa59ffe941ce60c8d22447ec5d6da6ebefbfeac8145f339d22f"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/libhostpolicy.dylib",
+      "size": 387792,
+      "sha256": "c572709017a9eeeb4302b0886e1c28e3b155c1051f5ea43015471c2b4a1b6d55"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/libmscordaccore.dylib",
+      "size": 2361920,
+      "sha256": "68f1142595777b9fd2cfc4b4880f28620ccfb7db24d9107c2f13afc70a131c44"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/libmscordbi.dylib",
+      "size": 1744128,
+      "sha256": "a87884f22665362dc3419b09d44cd0f2b57f9b12eb00f863a40cf777b4ca5da9"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/mscorlib.dll",
+      "size": 59728,
+      "sha256": "73426030044a7953ff6ba9c8752d8c109af6661bf746ce6077611ea641986d0f"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/MacOS/netstandard.dll",
+      "size": 100648,
+      "sha256": "6b67e0141ae83e0d43b3c23bb90227bf2ab3582c615dc918e46824375ca69888"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/Resources/PaperLike.icns",
+      "size": 121114,
+      "sha256": "de1df320df1bc4b5d470ddb06f7ffacc570a881d5680b4b095e983315bf14aeb"
+    },
+    {
+      "path": "macos/osx-arm64/stage/PaperLike.app/Contents/_CodeSignature/CodeResources",
+      "size": 54763,
+      "sha256": "67594ce9679bcbb39db3658f548a2bd8e04df962ba9b4a9efcf2c5178319959d"
+    },
+    {
+      "path": "macos/osx-arm64/stage/Read Me.txt",
+      "size": 374,
+      "sha256": "5f81e2c84b22d22ab7df458d4d6ad691db462dba0d9ec0a9b8db55b957ede1bd"
+    },
+    {
+      "path": "macos/osx-x64/PaperLike-macOS-osx-x64.dmg",
+      "size": 54938506,
+      "sha256": "44ad381e215e46b09ce72b34bf5a02eeaa357e28315d82463f3d36fdedcb7360"
+    },
+    {
+      "path": "macos/osx-x64/stage/Install PaperLike.command",
+      "size": 400,
+      "sha256": "801a7aa92e9b7c8d298eb3451d12a496ef5831f5b3c47429951d2cc32a2338d6"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/Info.plist",
+      "size": 733,
+      "sha256": "b100779f53d431938b9db45861fd078a909b5f2443fe917487faf89b628b90cd"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.Base.dll",
+      "size": 2356736,
+      "sha256": "10f1e2633a5776d79807aeafcdccd8990dd8296b6ff6b16914ae441439dbc230"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.Controls.dll",
+      "size": 1351680,
+      "sha256": "5afb5aa5dfdb05914e021c7ef750d9a57505736960766d6fa88b60e01d659af5"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.DesignerSupport.dll",
+      "size": 214528,
+      "sha256": "2f43b1b0df344100ebb4ee0e828a8417644118af1a41de25b44fd9ef169c019c"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.Desktop.dll",
+      "size": 15360,
+      "sha256": "e85fa49a6834fa8e7b05e4cc83c3ea23b4b89ef5b7f0591ce66b1d7854e3e118"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.Dialogs.dll",
+      "size": 242688,
+      "sha256": "a9208ade8be7a3daf0203b89fc40574c22e0596fb77bcc13eb4d07eb22cf4c32"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.Fonts.Inter.dll",
+      "size": 1892864,
+      "sha256": "2fd1bbf9b6c62b3b6deee6257fddc70e9efc9c36dc225bea08f999d3f4f661c8"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.FreeDesktop.AtSpi.dll",
+      "size": 562688,
+      "sha256": "df4d3a06c790d89b74fe5a2ae8e2ba7f2814c61c82c66ea14d3fe846cc2932c4"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.FreeDesktop.dll",
+      "size": 256512,
+      "sha256": "7c19c897080a208122a6e545a79818091d36cb82e3c005ccf36d09efa7492eac"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.HarfBuzz.dll",
+      "size": 22016,
+      "sha256": "62cecb41cdad1ce91bea3a70a4d6a2d0991eea23a97299cf968fc0d84369cde1"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.Markup.Xaml.dll",
+      "size": 74752,
+      "sha256": "b085cdeb5eae603cb284c626ba0d069be902a8c301767dce566b075421c955a9"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.Markup.dll",
+      "size": 45568,
+      "sha256": "0c37cf412bd2ae8ed65df58102f51cd29c6e4722a7389084d7b9e4bc56b7426f"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.Metal.dll",
+      "size": 15360,
+      "sha256": "88e3ae4c031e6d7eebcfeea9e36e5e11162e067e3c4312de94ee4fa6e7e55f26"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.MicroCom.dll",
+      "size": 15360,
+      "sha256": "a35da409659bbc7fe1568bc6b6b0fca8495c8a9b9feecec469a433c76f8ca36b"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.Native.dll",
+      "size": 352256,
+      "sha256": "95489e1f24c9c816620df9586f186c5eb18480345f7401d9841af00acee14240"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.OpenGL.dll",
+      "size": 128512,
+      "sha256": "1c674f1f909d26eff224893251462a8a4c73e24b9c4c7057210ceca88b1916aa"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.Remote.Protocol.dll",
+      "size": 75776,
+      "sha256": "6daf7d6e4c3aed5474817b7385eff844e1a3db3fdc91c56b7f65bb01dcffd769"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.Skia.dll",
+      "size": 125440,
+      "sha256": "363e384409908043cfab4e9d58b89ee988e9426bba7c4d3235d40cbe75637d6a"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.Themes.Fluent.dll",
+      "size": 733184,
+      "sha256": "4edd7c6111992b0885afcd2115b571e4b5b25345d9bf07601d1087ac06e02e38"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.Vulkan.dll",
+      "size": 191488,
+      "sha256": "10b3340a7e543a47b2e7e6c5d4aa3a7f8b14852132aa4fb64d98b539adcf3f84"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.Win32.Automation.dll",
+      "size": 124416,
+      "sha256": "da1da0aa60822a9cae8fee3852abc84b45b8061c74c92f3a5dd20f740fea2406"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.Win32.dll",
+      "size": 963584,
+      "sha256": "77061ab9ab28aa6d23a665d92003cda01151c7560349c5b3877a7f6abdd3744b"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.X11.dll",
+      "size": 408576,
+      "sha256": "c3051166a1e4132cfde651ec88e0414a0a79093c7be8f29387015dc895898408"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Avalonia.dll",
+      "size": 4096,
+      "sha256": "7517904f146bef9971c4eb2090aca5e590d51c99762f6d33715fbe444769d38b"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/HarfBuzzSharp.dll",
+      "size": 122400,
+      "sha256": "55e72ac23263f8e12484f3435e02ec22fac9eff6e6d169bb0a8c246be6b99d29"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/MicroCom.Runtime.dll",
+      "size": 15360,
+      "sha256": "2538ec6f3c24e901a90e33c37788b9a4e4b6ae8158cab7328a00a00bb28eab9e"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Microsoft.CSharp.dll",
+      "size": 795984,
+      "sha256": "5294469932bff7f998ce8c1b9f576c18808b42b18bf96d7344f48b4bab0b3ce4"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Microsoft.VisualBasic.Core.dll",
+      "size": 1166160,
+      "sha256": "e5c43e66e6cd45e277516ade99a19fef4be06ef64907c97f703522e0246b82bc"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Microsoft.VisualBasic.dll",
+      "size": 17192,
+      "sha256": "2e9be793036069632a74bc8739e34ba3c245e4403069d7fee5bd711f84dcd7b6"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Microsoft.Win32.Primitives.dll",
+      "size": 15656,
+      "sha256": "a46eccdca33d8de0503e3684a873436e1a8b512d1292328a6781f0be0e84d356"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Microsoft.Win32.Registry.dll",
+      "size": 34088,
+      "sha256": "b6b5c81a824e4576a88b774b175bff91c05f8f2966715c049d7901391a82d05c"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/PaperLike",
+      "size": 88080,
+      "sha256": "ca67d53b4b96d88993df840ed6d90de0a7848ce7f48d486bc28ab11a5191550c"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/PaperLike.deps.json",
+      "size": 40043,
+      "sha256": "5395a449655023760d334998ec504f662b5ef5fca75ca33603f1d84ee3bca6c2"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/PaperLike.dll",
+      "size": 110592,
+      "sha256": "d466ac49a7371814e53b2088e3a96a918cd560a97426d7f277b8a2d438936fec"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/PaperLike.pdb",
+      "size": 22300,
+      "sha256": "5f4c47c4cd5c8db0c526a682222e689e965662bc0f1759a3c8cb86e4d5786f44"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/PaperLike.runtimeconfig.json",
+      "size": 360,
+      "sha256": "542c92af19efa01d5f899547dda634acddfdd16ff03970f25584a81ebd3f4a3d"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/SkiaSharp.dll",
+      "size": 489824,
+      "sha256": "aaaaa18c68ba1f3a3408b00dff28b11d5705198e17ba9d3aa59222bfd35407c8"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.AppContext.dll",
+      "size": 15144,
+      "sha256": "b9ae1b2dab475da1260f9beb24dd2b72ad1b610dcd89c677472adcc2c576345c"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Buffers.dll",
+      "size": 15184,
+      "sha256": "853dfc4460fa310cda88c33eadb72cd7c252b75b580335687bfd2191eeeeb4b9"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Collections.Concurrent.dll",
+      "size": 227624,
+      "sha256": "5ac639e834db37b9b144a397fdde296906e00bee7cd948bafa8cfe9d97f1c0fe"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Collections.Immutable.dll",
+      "size": 984400,
+      "sha256": "a08d1055d8722f05514a4a5c55f9d053dfd63624ad5b8d7300afbcd223d4f796"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Collections.NonGeneric.dll",
+      "size": 92456,
+      "sha256": "d1241019338431787441ce73a93306af3a1e042e01e8322387a37ee3262576a5"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Collections.Specialized.dll",
+      "size": 92456,
+      "sha256": "7da3369aa24b914a7e0321b0242b32f69d8b27cd7a66e0f5b1506795155b2da1"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Collections.dll",
+      "size": 288552,
+      "sha256": "44526ce955a7fe689e533dd514239426979d1f0a9edb96c2bc403e55fd04859d"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.ComponentModel.Annotations.dll",
+      "size": 191272,
+      "sha256": "52cda40d5251284a06335538f4842e975b34b5e10967a2ada0f9f179f6015fdd"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.ComponentModel.DataAnnotations.dll",
+      "size": 16720,
+      "sha256": "70a2026258a16388f4b1192dc65386f6503170ae3dfbadec2fc6ad03281826b8"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.ComponentModel.EventBasedAsync.dll",
+      "size": 35664,
+      "sha256": "1211dfe3e387763d506fd711392b3f591991387141a7933f02ead62914ece2c8"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.ComponentModel.Primitives.dll",
+      "size": 70440,
+      "sha256": "1b38c671ef12335589947d58ae19af8ed0f1daec500ff110614452879ff86bef"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.ComponentModel.TypeConverter.dll",
+      "size": 759632,
+      "sha256": "8ac40f5683508904ed94a6a4dae0c946b3e62e1275b18c5c1f382eb21f9f3166"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.ComponentModel.dll",
+      "size": 17192,
+      "sha256": "d7362f251ac95222082a96b930f8a926ef33dd12efaf34a3da2f1dd866ac7e31"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Configuration.dll",
+      "size": 19240,
+      "sha256": "e90814520d2ef6a51c9b06398e27e971fbe13404d229e22d12dce17218443478"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Console.dll",
+      "size": 198952,
+      "sha256": "e767706f3fbf3c03557b3dce92dd5cf174b1b45ffa82f14ad570509524b0fe80"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Core.dll",
+      "size": 23336,
+      "sha256": "2614a9eddb9d8c3924eb165e909f7d085309032b83a2db96875bf98d203894b0"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Data.Common.dll",
+      "size": 2802984,
+      "sha256": "43b4773a51fcb3f78354f5380370afe74f79bfc447b0ecbcddd64019c130ec8b"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Data.DataSetExtensions.dll",
+      "size": 15656,
+      "sha256": "961b582cb04b21a40c110a3cbac40e5cf4aeaa962d68a11c11e3c1f2751a0f14"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Data.dll",
+      "size": 25384,
+      "sha256": "246dbc72f651e872164456c082aabac19181890abd290b6ae27ea2b45c80ec02"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Diagnostics.Contracts.dll",
+      "size": 16208,
+      "sha256": "d3c52d23300d8e8e20428ec7118a3d73ff9d45f34e5ed777d4b80629f3987c3e"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Diagnostics.Debug.dll",
+      "size": 15696,
+      "sha256": "6a163859ebb13f2a5297c65efb8c0399295bfe0eb8b69781cf730fd3102aef09"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Diagnostics.DiagnosticSource.dll",
+      "size": 497960,
+      "sha256": "5cfd5677cf30763e36882e23a26dd02330a9fe0b72bedd7c1a36b872a7190b3e"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Diagnostics.FileVersionInfo.dll",
+      "size": 42792,
+      "sha256": "21ebd7b91a2f5dcf7b5a8ed26d44394fd93edbde615c605bba74548e8a919c80"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Diagnostics.Process.dll",
+      "size": 235816,
+      "sha256": "d9c88b69b36158704dfc56c7e2d4448cc8cda0a5ef01bc415449f69e71d8a643"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Diagnostics.StackTrace.dll",
+      "size": 34600,
+      "sha256": "50b2b377300d5b72281dc75659de0f3b35b1af3ef2f19204a0792125e4fec2a4"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Diagnostics.TextWriterTraceListener.dll",
+      "size": 58664,
+      "sha256": "4a8e5aae707ab55be3840301f2c8fd97d0bc5a6603dc4a67bcf60df85bc92bb6"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Diagnostics.Tools.dll",
+      "size": 15144,
+      "sha256": "9051f6728413f6b7accfb826dcc74d13ca65b19c109c0883b042df358cb6768e"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Diagnostics.TraceSource.dll",
+      "size": 130856,
+      "sha256": "4a85b8e14c3bebce8222d2d806363e586d26cce0a3414a3c2af9165434c6d9fd"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Diagnostics.Tracing.dll",
+      "size": 16168,
+      "sha256": "097d0833e92bce9fddc66dbb609e461a18bad0a4649e215fd251cfdfa684dabf"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Drawing.Primitives.dll",
+      "size": 123176,
+      "sha256": "7e3385c546c91e0192f4401c934307a89103ab7eda5d7beacfe53dc8ca834032"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Drawing.dll",
+      "size": 20264,
+      "sha256": "333f3e70c84d489aa9cb4c2576dd74cb4bf8ad4cd3414947f5bbbd73476ba28b"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Dynamic.Runtime.dll",
+      "size": 16168,
+      "sha256": "7d1a78ade42435709590cba405204e8f6ab84a34b6823ea8ddc801c4ffc568c7"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Formats.Asn1.dll",
+      "size": 224040,
+      "sha256": "2ebd4d34834175e40f38d203d07acb06f4d6e70ba18005bf4fad230ed13ba3d3"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Formats.Tar.dll",
+      "size": 276304,
+      "sha256": "9462ccf99c6a2bb5c72fbe17546d4e124596a8757f3ec52559c0df00c12d86b4"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Globalization.Calendars.dll",
+      "size": 15656,
+      "sha256": "e08df6a1f102c139337af0fe716795df203e8b16c742b301001b64ca2de9ed93"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Globalization.Extensions.dll",
+      "size": 15184,
+      "sha256": "15fe0ff3c3c1363198046db1167585809788273e80db92d72b11b784eb61fd59"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Globalization.dll",
+      "size": 15696,
+      "sha256": "4360984e9ff47fceb285b7a7445f7bd60abc1692adba5538daf5bb8854a699f7"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.IO.Compression.Brotli.dll",
+      "size": 73552,
+      "sha256": "aafe5a419ef3c0da79fe2d338cbeb1cd9aaf902a93c86106d15621cd2f2aa63c"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.IO.Compression.FileSystem.dll",
+      "size": 15144,
+      "sha256": "56ddf5f38b26cef93ed76fafd336a0cf12b3ae12edfb2ae7a58da53448c1a895"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.IO.Compression.ZipFile.dll",
+      "size": 98600,
+      "sha256": "dfc477eeefa6449cd57a6cda6eb3ac44dbec30767563f3678040d254abaf182e"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.IO.Compression.dll",
+      "size": 416040,
+      "sha256": "0570f3d3ee44688bb45e53e9299f73fe4ee7245037f1c7c4d19ea856546d8897"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.IO.FileSystem.AccessControl.dll",
+      "size": 33064,
+      "sha256": "c444616e8c03119b888712e9290c3ede9ad070108985c77a30ca3aad0312949f"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.IO.FileSystem.DriveInfo.dll",
+      "size": 81704,
+      "sha256": "92c952e5e9e1dff808eee9dfc89188f5379966872a7d9cb123a340995ecd968b"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.IO.FileSystem.Primitives.dll",
+      "size": 15144,
+      "sha256": "e8e05d2c0de51b40a50845a243607ae9a574e68330c6e2f6abffc986883f300c"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.IO.FileSystem.Watcher.dll",
+      "size": 105768,
+      "sha256": "e7a35ca1f3eb515cbb61a8528897f5cfde7b1cf1818dcbadcdd0698606215b2a"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.IO.FileSystem.dll",
+      "size": 15696,
+      "sha256": "f1e4984f5c79d818ad03492b20ee5021fce686e95bc96a9f98cac7147bc5063a"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.IO.IsolatedStorage.dll",
+      "size": 76584,
+      "sha256": "8db11a0f2d0e04da55cc3e1a7b9eba256ca67bbef70084f53b183bc5e929c5df"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.IO.MemoryMappedFiles.dll",
+      "size": 83752,
+      "sha256": "bdfbe925cbf45194a7ca68a7ff4a34985b5f5009b22ccd433f88625202d272f0"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.IO.Pipelines.dll",
+      "size": 181032,
+      "sha256": "44685cd1c12fa16a5f05715c8f9257feff52f5604a011f80e0f081b934a7895b"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.IO.Pipes.AccessControl.dll",
+      "size": 24400,
+      "sha256": "c3dee6977b2884c03a0dde0784d2c46ed1b4a92622d1a7a5bbb15c494bffa3ca"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.IO.Pipes.dll",
+      "size": 127312,
+      "sha256": "20a88e95295ca45928826af4be08c75bfb5d3be5ab7fb07f59da6d2a70cce4b0"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.IO.UnmanagedMemoryStream.dll",
+      "size": 15696,
+      "sha256": "30add725b36241b281fe0beac7a586547dde83c994dedf95f3909e9740a9bcb3"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.IO.dll",
+      "size": 15656,
+      "sha256": "64e67d8b2721dd977faf399c3eda1cff3ed8a518969490b3a8c597ab11acdd87"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Linq.AsyncEnumerable.dll",
+      "size": 1328424,
+      "sha256": "dbeed91dd10b95af94c3116cf8cc16e3bd40ac93e4a849c3f7e1eb84ef9ba689"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Linq.Expressions.dll",
+      "size": 3723560,
+      "sha256": "8747b0972d090c255c5d2344ea2237013c385028ee36f9647f9f57a0050fbe04"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Linq.Parallel.dll",
+      "size": 776016,
+      "sha256": "1d410e1752bdde8c65dac2f4cbcde891f10dfc8e59695aef940c4d90ecf9183b"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Linq.Queryable.dll",
+      "size": 178472,
+      "sha256": "0672af357e11b0b3a5ae6b9d191c0f3abe522dc94b1348b10b1923e93e693582"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Linq.dll",
+      "size": 696616,
+      "sha256": "38a098dd2c0cd30e0df1a7dd4454e4ed1b6e6400a9f509509716d304cb21a4a8"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Memory.dll",
+      "size": 152400,
+      "sha256": "9f1ba107f3bae73bba9487448736f1fc52570d0d0db621927ca7d6ec3235e602"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Net.Http.Json.dll",
+      "size": 120104,
+      "sha256": "e17520735b7b77dc29ea9b7df272b1fc973f6a390bc132026568fbbd29c3dc9c"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Net.Http.dll",
+      "size": 1756968,
+      "sha256": "9c4bd7b7e23005eebbdadc63ace8392bfd1cb6028b31e84c690693ef0cb147f7"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Net.HttpListener.dll",
+      "size": 291624,
+      "sha256": "d210cb3130568e901f87939c0923845a8b1927d3e2db48d0a455684bb65466a8"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Net.Mail.dll",
+      "size": 481064,
+      "sha256": "0b08e64b77dfe58e309acf7494d1daaddae5349293ae67884dae2c1786f91c5e"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Net.NameResolution.dll",
+      "size": 97616,
+      "sha256": "80d9e3cfa36cf63e8057be00e5207243cade60452d4a9bdc7f6fee6e5aa91fea"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Net.NetworkInformation.dll",
+      "size": 135464,
+      "sha256": "ced581b97fd0deb61497b17857f090e6113e9aeaa12d44806da4c6cf85168a38"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Net.Ping.dll",
+      "size": 89384,
+      "sha256": "aa30bc93e22a58ac908975b755f41ea286e74b6884bfa082c8ef4c7b432e800a"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Net.Primitives.dll",
+      "size": 214824,
+      "sha256": "6fc3fac8770bf8597e4cc3c236db380ba4286ccc2e79f3944100dff04282df16"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Net.Quic.dll",
+      "size": 345384,
+      "sha256": "fe829a12d73e118bd3fbf0ef87ee81e88d9c418d8d6a6fe9aa37cfcb587cef06"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Net.Requests.dll",
+      "size": 367400,
+      "sha256": "fb4b178deef7b336dfabb4c0d1620bca65fad0ffe725f4c380cea13a39d7af83"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Net.Security.dll",
+      "size": 757072,
+      "sha256": "28488ee2fab4a73b05790d9f1b8ce37a8bf262ea7ddb0952d17c8cacd1331657"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Net.ServerSentEvents.dll",
+      "size": 71464,
+      "sha256": "4d6879cc918a53f038657842fd038a52e7ad2f39300f842e2c4d8e33e939a8d1"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Net.ServicePoint.dll",
+      "size": 15144,
+      "sha256": "4239b401186f7f4060e07bc372d5272e9e3fa641b1255587ebf2b1bbdf71ad1e"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Net.Sockets.dll",
+      "size": 603944,
+      "sha256": "dd2267cfb7741ee360fba655a3919d93c9a88b7b469898346ecbdf1ab15be594"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Net.WebClient.dll",
+      "size": 156496,
+      "sha256": "2f1bbc08240a46e90b578fe219ccd1c76916d88c11d278047f1345fea258a778"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Net.WebHeaderCollection.dll",
+      "size": 54568,
+      "sha256": "1ec65485a4739fa01fead400d9773791f45206be2a7a0f7f96c0cec306b58a74"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Net.WebProxy.dll",
+      "size": 32592,
+      "sha256": "e05a77a2a4ac76103b052f8ae05e1458dfbf986f90605017431e3bd9a74bbb6c"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Net.WebSockets.Client.dll",
+      "size": 90920,
+      "sha256": "0627c0f6f7bc61c3b4e748216bad95bbd9519a9c32087d7858d5bc70b638bc5d"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Net.WebSockets.dll",
+      "size": 236880,
+      "sha256": "eaf2eca664406f3029787a3dc3fefbb247246541665a552802b009a276427c60"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Net.dll",
+      "size": 17232,
+      "sha256": "b81c923dce5413d381f59ab44e30a491e22b4b57b95efba0e79189c9de3bc7fe"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Numerics.Vectors.dll",
+      "size": 15656,
+      "sha256": "73cd5d1fcc96d1e181ce24de4f109d74512fdc6a363cb78b37cc2c99974533cc"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Numerics.dll",
+      "size": 15144,
+      "sha256": "4ccd8a4d33b0684cf5c331a88d08b001b2e0d2d855e974d2f91404a37e483fd0"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.ObjectModel.dll",
+      "size": 69416,
+      "sha256": "933706ef42e9681523c96ba2209b1dbb23e221b5b87709dda0b5bf73d7939354"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Private.CoreLib.dll",
+      "size": 15557928,
+      "sha256": "98a1c1c66076b01a1ec028e8915e381e49b5bd37d88d3af954a23beb4db9571f"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Private.DataContractSerialization.dll",
+      "size": 2071336,
+      "sha256": "d9476fffcccdd879f13b82fb7aa1c8803fd8ee260498634d0be6f80356655c0d"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Private.Uri.dll",
+      "size": 245032,
+      "sha256": "72bc0a0f61cdd6dffa5d6961a15b6cbcd9fb2ac0a249dd6299c55fb06e1934f8"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Private.Xml.Linq.dll",
+      "size": 388392,
+      "sha256": "317f1cbc2544df5fb1fa61e2bfd4dc6c519c345fdaa5b6adea3e53df54153042"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Private.Xml.dll",
+      "size": 7902544,
+      "sha256": "f33e43bd55e2b4ca78d82d49324c2e84a8de7550bfc09bbd6079ed5d262679e2"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Reflection.DispatchProxy.dll",
+      "size": 66856,
+      "sha256": "5a6ffaa03e4b6a02aafe5b5ae40a4dfc2c794a62d97cd51050942d59748e5774"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Reflection.Emit.ILGeneration.dll",
+      "size": 15656,
+      "sha256": "7a00783021ce73afb26d524f579f66ed03964a8bb9e7bfe95a93036997fdcb9a"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Reflection.Emit.Lightweight.dll",
+      "size": 15656,
+      "sha256": "360a27f30eb80c09d4baf5c689babd00c3ba67712ca9ae8a044fc07b43227f82"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Reflection.Emit.dll",
+      "size": 302888,
+      "sha256": "29bb7dcfd010d3b158ba7060c123822665d56de6ba4436375a912926b427ea99"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Reflection.Extensions.dll",
+      "size": 15144,
+      "sha256": "07b9e141cf0e743b6b320d58990e478a2c94769555a5fa4f8596cdb4e0038dfa"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Reflection.Metadata.dll",
+      "size": 1147688,
+      "sha256": "235869cee3029ea354b720112772145c6d57c3aef186ed13ded6c448761c7a7b"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Reflection.Primitives.dll",
+      "size": 15656,
+      "sha256": "b7134aad8a5295f0cbc5e63e0474105b912dfefeb14cf6316255ccd279b5eb84"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Reflection.TypeExtensions.dll",
+      "size": 32080,
+      "sha256": "c9f7344d5c157cf8edf82df33cbb9b9c2825ff3dfd840aab687531f1688d73ce"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Reflection.dll",
+      "size": 16208,
+      "sha256": "f5f05f5ac627f00585bc5056f60c784460e004053ef65be7e2337eae1370db04"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Resources.Reader.dll",
+      "size": 15144,
+      "sha256": "5d5a87d369a25793b36c8a0a11509bcf7c3826dbf416e7ae27d20a991ce80954"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Resources.ResourceManager.dll",
+      "size": 15656,
+      "sha256": "0fc40377754f2b87d7b6d429a2734a2a703d0746990b85c37e225b02b1b034cf"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Resources.Writer.dll",
+      "size": 42280,
+      "sha256": "562e70f9f72205b7e609950dc2e7e4e9615dfc68adc5ce4c0abfab70545c847b"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Runtime.CompilerServices.Unsafe.dll",
+      "size": 15184,
+      "sha256": "45e3f8d593e8931ae120c41ccc02c73ecda9949e0182428a354e13df3992c23f"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Runtime.CompilerServices.VisualC.dll",
+      "size": 18728,
+      "sha256": "3d9bb5c3c33693d68180168f911fa5073311e60bf7b4e3042a259780b1bd0b59"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Runtime.Extensions.dll",
+      "size": 17704,
+      "sha256": "f69018678b41132affbd8e002f1ebe917a03e0eaf392ecc9c7f1d4f8599170d4"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Runtime.Handles.dll",
+      "size": 15656,
+      "sha256": "a135bd775bbf70a44a81b4a25d617e5b138f9ccd22f8fc0246596ff14da3b6d3"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Runtime.InteropServices.JavaScript.dll",
+      "size": 39760,
+      "sha256": "54394d50a80f6ce03c8675cb2fbf634f59e8d84b45f08a8b0b659bfc7d5ff69e"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Runtime.InteropServices.RuntimeInformation.dll",
+      "size": 15144,
+      "sha256": "5193ef6b49193a5a6554ef15ff101ad1e4bc6b73764e6c665ea5ca64654bdcac"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Runtime.InteropServices.dll",
+      "size": 102224,
+      "sha256": "b913357b0065518b20a8359cff74c3a2c513da83d88478f83bacc79fe63d8937"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Runtime.Intrinsics.dll",
+      "size": 17192,
+      "sha256": "3e5ad67e7eb3086556c5e43792fe6771721465fc23af4567ce3240e1137f28c6"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Runtime.Loader.dll",
+      "size": 15656,
+      "sha256": "5010a2753c510426f3d4a69883ba7ee4fb5a70047488024131b73dcfb925796f"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Runtime.Numerics.dll",
+      "size": 342824,
+      "sha256": "f8ea3595d96b9e09f9c433628296e34b2abf7e083435ff5e1bed9abba5b9de95"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Runtime.Serialization.Formatters.dll",
+      "size": 116008,
+      "sha256": "cce76d933f2d1327ce4a7ab09e683dee4c11cf92f5d0869e6e710efadaee71d6"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Runtime.Serialization.Json.dll",
+      "size": 15656,
+      "sha256": "87798ec2da09cf4e15a83709da1ea3032dc32b8682778080f3994214532d1d2b"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Runtime.Serialization.Primitives.dll",
+      "size": 28456,
+      "sha256": "b6ff7e40cf3f070ec9222620635dc8c8fd766823564e7b60bb21044565ccb5c9"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Runtime.Serialization.Xml.dll",
+      "size": 16680,
+      "sha256": "8e768fe7758545ce9fd8517f0569a00c65a518d3e407a38193fb0d7733993f91"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Runtime.Serialization.dll",
+      "size": 16680,
+      "sha256": "7481d56cbff4bc36592dbe063c9b8d073cf71dbf875ca74e0f631c0619300f7b"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Runtime.dll",
+      "size": 44880,
+      "sha256": "81a458df4d16a9166daf47af66432f946bb107942cf6fd15284839e56551b768"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Security.AccessControl.dll",
+      "size": 59728,
+      "sha256": "4bc933e5bde61049f9958607b3be1d0e06955e500c9d213110f280cbdd4511c3"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Security.Claims.dll",
+      "size": 92456,
+      "sha256": "34e7fab05a3f0576ead8f637408e8dd7bec8a4731ad80155b7095ab3e896291f"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Security.Cryptography.Algorithms.dll",
+      "size": 17232,
+      "sha256": "b539042e3884cad3d03fbf303eb335a682de22330485c5ce7e266875efeb92a5"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Security.Cryptography.Cng.dll",
+      "size": 16168,
+      "sha256": "11939e45ecea8c7d83d2192d98db8489265b2bad1bcb0f324083f27b0bce0827"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Security.Cryptography.Csp.dll",
+      "size": 16208,
+      "sha256": "86b80ce11ebf6fa8b17a9237ee9e386b38f142d15d95cca06d172845f98d8070"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Security.Cryptography.Encoding.dll",
+      "size": 15656,
+      "sha256": "184d52d17dc980eb30c6f05c3ea87ea20f8f707b8768e59fa1ffff82cbb0c5b7"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Security.Cryptography.OpenSsl.dll",
+      "size": 15696,
+      "sha256": "00ba005b2d1391a2e095a66ad693ab8daa22bff31bf3621222252e233eac9844"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Security.Cryptography.Primitives.dll",
+      "size": 15656,
+      "sha256": "612d2e1d991e8c76cd91b573f9adf4561a764e5a1ef9c4ff92d9a70c06605c55"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Security.Cryptography.X509Certificates.dll",
+      "size": 16680,
+      "sha256": "5d92b85892569639f1c2c63949a7e7fc390494619e84317be5b93fa656b037b1"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Security.Cryptography.dll",
+      "size": 2138448,
+      "sha256": "72b9b7fab40b902a8c41bf10a7aec064baf570fc2f50b516b91b879ea266acaf"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Security.Principal.Windows.dll",
+      "size": 38696,
+      "sha256": "255a557340ca79c4e66bf8be0b25e0886e235edba04dabed5a3819d04aaa51c1"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Security.Principal.dll",
+      "size": 15144,
+      "sha256": "3451f573900730750cf135d2a309a770c2a6b746a1a0d20ea2c5c87060b5c92d"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Security.SecureString.dll",
+      "size": 15656,
+      "sha256": "f9d46a8c5f9ab2d4902dcdc5bb88e6bb2f93abc661bbb2cdf02dfa80bbf76bee"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Security.dll",
+      "size": 18216,
+      "sha256": "b4b35cdfde744df7312f96c95d78ba944c7fe14c87be4702eff8cc77dfd9dd68"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.ServiceModel.Web.dll",
+      "size": 16720,
+      "sha256": "941205b107b865a6c6d2ad3574b833cef3814110a4a1cef8525cc261dbf3df16"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.ServiceProcess.dll",
+      "size": 15656,
+      "sha256": "079bb1318cb40e58fa82e9e149787ada68791b6196512dfc461d959fd0fcad5d"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Text.Encoding.CodePages.dll",
+      "size": 852264,
+      "sha256": "bac9c8c896b3b400c09562cc3840a357f8237e631606bd32094d7f2dc7c9b78e"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Text.Encoding.Extensions.dll",
+      "size": 15656,
+      "sha256": "fd91b4516867b20ff923be98597b9906c8344988eba70a9d3c71fe1ef9ad6a1e"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Text.Encoding.dll",
+      "size": 15656,
+      "sha256": "415665784ec8ea9336810bbfd5b2402d689b17840bbb5c7d2057c636de804598"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Text.Encodings.Web.dll",
+      "size": 113960,
+      "sha256": "4db64cfb52fa4e9e835f77ded67a18d35c634fe66007600dd44164a0e835c1c6"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Text.Json.dll",
+      "size": 1882920,
+      "sha256": "3b41f4492b60d26accd6722fd2ae9fabc19d925197da9e141d0ed0576a2a12f5"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Text.RegularExpressions.dll",
+      "size": 1036584,
+      "sha256": "e2d5d1f248b72a702cd06d20cb831819c70808045fa3c4ee16e3936eabd8d9bf"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Threading.AccessControl.dll",
+      "size": 34600,
+      "sha256": "2ad110336a9f80857284a71fe528db5e989eaf8a98956a1e08cac54767c3920a"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Threading.Channels.dll",
+      "size": 149328,
+      "sha256": "42838a78f38fcff69b3a28bfb03df05eaebd44d1d1187c0f2742f8f42158c1ba"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Threading.Overlapped.dll",
+      "size": 15696,
+      "sha256": "2e8760430376fbab311552ed8923387cfd16cde149495d2594d8be8468aae0ea"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Threading.Tasks.Dataflow.dll",
+      "size": 470824,
+      "sha256": "a02760386e1301cae74187f87aa288a0241804fdcdba8ac08fd932260a72f44a"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Threading.Tasks.Extensions.dll",
+      "size": 15656,
+      "sha256": "5ec6503c7cc5774937315437d861e60d0cd24779182774bdbd35dc87f5d77fbd"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Threading.Tasks.Parallel.dll",
+      "size": 121128,
+      "sha256": "17346e24e622a9f6ec9aa64cc701e903b7e9434e31dc794d23330163fa2c018d"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Threading.Tasks.dll",
+      "size": 16720,
+      "sha256": "92c537d4495f10ef8a0251735fb2a98243fbe4917c768621ff98e4bd9a659c9e"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Threading.Thread.dll",
+      "size": 15656,
+      "sha256": "2f2afd9b0ba0f587e8afbeb6dc4362c7cb52faf759a12e5c25f9e7e38cffb81b"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Threading.ThreadPool.dll",
+      "size": 15656,
+      "sha256": "83b461fa5a8a3cd020b5c0145a4237134904d038f84c0234c62bcefcd876122f"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Threading.Timer.dll",
+      "size": 15184,
+      "sha256": "cbb625e575c5531446f0468bf482a97defc6be0a408d4260aa0244606d502ffe"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Threading.dll",
+      "size": 73552,
+      "sha256": "13eab1858de182e8c83a0615928a2114a30c424ed226faf0a09269062b571d65"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Transactions.Local.dll",
+      "size": 356688,
+      "sha256": "46a2bdb7d54f67607ec68507b3a385513ea7ddd2670e22674a2bc5b38bdcb415"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Transactions.dll",
+      "size": 16720,
+      "sha256": "337efe573def76c83fc03344dcbe90f3455c911176fd1e4e82859ccebfc0c8f5"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.ValueTuple.dll",
+      "size": 15656,
+      "sha256": "3219154027cdab461d6912678644c14021929abe3d9b98b9a5bd272829c63302"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Web.HttpUtility.dll",
+      "size": 52008,
+      "sha256": "04ca6567b94631fa1fcf5ef68e10895147692744b685fd9e1a2bcc8ab74e8a80"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Web.dll",
+      "size": 15144,
+      "sha256": "1e8a2269fdd8ffe023564d042c24b03facd844ba0dee9c17f49c6f4dee2f78db"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Windows.dll",
+      "size": 15656,
+      "sha256": "6947b46b79f13918a100bdc92f0d771524ee44d5c643967478f1a5dd3dafb2fb"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Xml.Linq.dll",
+      "size": 15656,
+      "sha256": "716feaddf1a207514e5c66e4a160fa1ea64c2af02317ab0a142fc2099cad7c5c"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Xml.ReaderWriter.dll",
+      "size": 21800,
+      "sha256": "17e9b5d412318bb235e1e06e69c3fa6ccde65e5a3ab38ce6f1160d2f83a8da92"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Xml.Serialization.dll",
+      "size": 16168,
+      "sha256": "c14e13220d355795daeed82ca5df5bbd7e7a26f83011501f5485114246a83d0f"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Xml.XDocument.dll",
+      "size": 15656,
+      "sha256": "022317d9bb6ccde79d78939ddb16eb927bfcb4347f6003ca48521b705a868e76"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Xml.XPath.XDocument.dll",
+      "size": 16680,
+      "sha256": "9f3d62c795a59f721f2e00f3a23a183474b65f768309dc3b80da7b94da75d449"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Xml.XPath.dll",
+      "size": 15696,
+      "sha256": "6e42443f3b6ccab12fc09c2cbbd2495351ad19627e4fc9191ffc78666918b2c5"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Xml.XmlDocument.dll",
+      "size": 15656,
+      "sha256": "8306c0c2a53be4c91678c9c16893f9f604111ea6ddf717f71e473128ff643d95"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Xml.XmlSerializer.dll",
+      "size": 17744,
+      "sha256": "21fc31cc35fdf7034780bc9ec1591b6df5e940d250f3efd5f4a9184797f28746"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.Xml.dll",
+      "size": 23376,
+      "sha256": "89f825303eb9cbd77f97811b92e3b214e6e6a20c29e749e9b57448b25e16ac68"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/System.dll",
+      "size": 50472,
+      "sha256": "d15f6e4a1eb681f97aa57b1b426b761e5fcb22c6ad91e8cfd436b9a5a33acf44"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/Tmds.DBus.Protocol.dll",
+      "size": 232960,
+      "sha256": "60a1c5255731d8ac843cab53108be8ba1ed02759ce3db0da5b49939ebe97bd8a"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/WindowsBase.dll",
+      "size": 16168,
+      "sha256": "6f2d93e68f0cb6230a3ed23109a0c1019ff5ed68450b04ca7e8e9bfc024fed96"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/createdump",
+      "size": 140320,
+      "sha256": "cb2d9cec1009e99da251a76d8e271b17a14d5a6ea16c19d637316335b9e53046"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/libAvaloniaNative.dylib",
+      "size": 1531232,
+      "sha256": "189254b4cefbe8311f4f89c09416174521c028986d4afadf787525ca72bada31"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/libHarfBuzzSharp.dylib",
+      "size": 2848736,
+      "sha256": "9a727a25e1c91f30ed2ca0ae12fcb5d8e1313ae41097127dd8189b80b1ced483"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/libSkiaSharp.dylib",
+      "size": 15094304,
+      "sha256": "f620155fff761a8ed2fed06ca5498b498ba1990c62f0c68e5ded2da942de68e5"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/libSystem.Globalization.Native.dylib",
+      "size": 101856,
+      "sha256": "56ce180bdec859f611782ee9c49e5ff24044600f00ce072b57b3b4f39b2fcedd"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/libSystem.IO.Compression.Native.dylib",
+      "size": 1032144,
+      "sha256": "bbb3c12756f5237e1a5b58760776671726dbc736ef07599ec358dd09063b5b7e"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/libSystem.Native.dylib",
+      "size": 100960,
+      "sha256": "fd0be3082ad359de9b7aed974e3195533ab6ec406a021534d57451de6d9c8075"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/libSystem.Net.Security.Native.dylib",
+      "size": 20400,
+      "sha256": "31e4fc879cbff5e27f04f282be2fb5df5d06701a069acc6c27dbe10c086bae62"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/libSystem.Security.Cryptography.Native.Apple.dylib",
+      "size": 126624,
+      "sha256": "9d47bfb768bab6f21913d456c3203da897b627839d896d84362d6ffc23055600"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/libclrgc.dylib",
+      "size": 1010640,
+      "sha256": "d7447d6988b7552517098dfcb0b8bb01665f172f4b9c9acdd26b4a3ae6173b7b"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/libclrgcexp.dylib",
+      "size": 1093840,
+      "sha256": "62ad25e4f0cf81c61e9c8bcd12be67867e4e6528a8dcb9820421b0cb94472772"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/libclrjit.dylib",
+      "size": 3326288,
+      "sha256": "f418960b5907458eea5a1e4bf55eda745e2ed24620a560763493c59b0658b18a"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/libcoreclr.dylib",
+      "size": 6510608,
+      "sha256": "58d2213e658844fc45b416a19fde4968c2e78e583f1a463d274d461987c6a10a"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/libhostfxr.dylib",
+      "size": 384768,
+      "sha256": "99e4583b1c027df7b83d7aa6da00aa6def1b73a47360d3a0b4427d8c0ae60e37"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/libhostpolicy.dylib",
+      "size": 371072,
+      "sha256": "6c87ba8208d266672dcfb2e6037e06de8b8d24654b3193f06346e8ca011e3afe"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/libmscordaccore.dylib",
+      "size": 2397536,
+      "sha256": "cf62e5fdf202e404bdafd7ef2529f3d2902f2d998fb0ddfc786ff2acd3c39154"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/libmscordbi.dylib",
+      "size": 1708192,
+      "sha256": "ff9189e6cd7324f1f81b84a35abf92cf5dfc0e9385102cd485bfec18285937e5"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/mscorlib.dll",
+      "size": 59688,
+      "sha256": "1a6c2c766352d096f68a54ad0c721c56827ad95c9433c447dff39ba65c8ddea0"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/MacOS/netstandard.dll",
+      "size": 100688,
+      "sha256": "4f297de0cc2d2959de104044eb0e9bc469c5edd7fbb7b7bdb50055d8cfb7470a"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/Resources/PaperLike.icns",
+      "size": 121114,
+      "sha256": "de1df320df1bc4b5d470ddb06f7ffacc570a881d5680b4b095e983315bf14aeb"
+    },
+    {
+      "path": "macos/osx-x64/stage/PaperLike.app/Contents/_CodeSignature/CodeResources",
+      "size": 54763,
+      "sha256": "129171fa3d8eaba79d75e5ef304836595b91645135ec977e33fbc446f82c84d9"
+    },
+    {
+      "path": "macos/osx-x64/stage/Read Me.txt",
+      "size": 374,
+      "sha256": "5f81e2c84b22d22ab7df458d4d6ad691db462dba0d9ec0a9b8db55b957ede1bd"
+    },
+    {
+      "path": "windows/publish/Avalonia.Base.dll",
+      "size": 2356736,
+      "sha256": "10f1e2633a5776d79807aeafcdccd8990dd8296b6ff6b16914ae441439dbc230"
+    },
+    {
+      "path": "windows/publish/Avalonia.Controls.dll",
+      "size": 1351680,
+      "sha256": "5afb5aa5dfdb05914e021c7ef750d9a57505736960766d6fa88b60e01d659af5"
+    },
+    {
+      "path": "windows/publish/Avalonia.DesignerSupport.dll",
+      "size": 214528,
+      "sha256": "2f43b1b0df344100ebb4ee0e828a8417644118af1a41de25b44fd9ef169c019c"
+    },
+    {
+      "path": "windows/publish/Avalonia.Desktop.dll",
+      "size": 15360,
+      "sha256": "e85fa49a6834fa8e7b05e4cc83c3ea23b4b89ef5b7f0591ce66b1d7854e3e118"
+    },
+    {
+      "path": "windows/publish/Avalonia.Dialogs.dll",
+      "size": 242688,
+      "sha256": "a9208ade8be7a3daf0203b89fc40574c22e0596fb77bcc13eb4d07eb22cf4c32"
+    },
+    {
+      "path": "windows/publish/Avalonia.Fonts.Inter.dll",
+      "size": 1892864,
+      "sha256": "2fd1bbf9b6c62b3b6deee6257fddc70e9efc9c36dc225bea08f999d3f4f661c8"
+    },
+    {
+      "path": "windows/publish/Avalonia.FreeDesktop.AtSpi.dll",
+      "size": 562688,
+      "sha256": "df4d3a06c790d89b74fe5a2ae8e2ba7f2814c61c82c66ea14d3fe846cc2932c4"
+    },
+    {
+      "path": "windows/publish/Avalonia.FreeDesktop.dll",
+      "size": 256512,
+      "sha256": "7c19c897080a208122a6e545a79818091d36cb82e3c005ccf36d09efa7492eac"
+    },
+    {
+      "path": "windows/publish/Avalonia.HarfBuzz.dll",
+      "size": 22016,
+      "sha256": "62cecb41cdad1ce91bea3a70a4d6a2d0991eea23a97299cf968fc0d84369cde1"
+    },
+    {
+      "path": "windows/publish/Avalonia.Markup.Xaml.dll",
+      "size": 74752,
+      "sha256": "b085cdeb5eae603cb284c626ba0d069be902a8c301767dce566b075421c955a9"
+    },
+    {
+      "path": "windows/publish/Avalonia.Markup.dll",
+      "size": 45568,
+      "sha256": "0c37cf412bd2ae8ed65df58102f51cd29c6e4722a7389084d7b9e4bc56b7426f"
+    },
+    {
+      "path": "windows/publish/Avalonia.Metal.dll",
+      "size": 15360,
+      "sha256": "88e3ae4c031e6d7eebcfeea9e36e5e11162e067e3c4312de94ee4fa6e7e55f26"
+    },
+    {
+      "path": "windows/publish/Avalonia.MicroCom.dll",
+      "size": 15360,
+      "sha256": "a35da409659bbc7fe1568bc6b6b0fca8495c8a9b9feecec469a433c76f8ca36b"
+    },
+    {
+      "path": "windows/publish/Avalonia.Native.dll",
+      "size": 352256,
+      "sha256": "95489e1f24c9c816620df9586f186c5eb18480345f7401d9841af00acee14240"
+    },
+    {
+      "path": "windows/publish/Avalonia.OpenGL.dll",
+      "size": 128512,
+      "sha256": "1c674f1f909d26eff224893251462a8a4c73e24b9c4c7057210ceca88b1916aa"
+    },
+    {
+      "path": "windows/publish/Avalonia.Remote.Protocol.dll",
+      "size": 75776,
+      "sha256": "6daf7d6e4c3aed5474817b7385eff844e1a3db3fdc91c56b7f65bb01dcffd769"
+    },
+    {
+      "path": "windows/publish/Avalonia.Skia.dll",
+      "size": 125440,
+      "sha256": "363e384409908043cfab4e9d58b89ee988e9426bba7c4d3235d40cbe75637d6a"
+    },
+    {
+      "path": "windows/publish/Avalonia.Themes.Fluent.dll",
+      "size": 733184,
+      "sha256": "4edd7c6111992b0885afcd2115b571e4b5b25345d9bf07601d1087ac06e02e38"
+    },
+    {
+      "path": "windows/publish/Avalonia.Vulkan.dll",
+      "size": 191488,
+      "sha256": "10b3340a7e543a47b2e7e6c5d4aa3a7f8b14852132aa4fb64d98b539adcf3f84"
+    },
+    {
+      "path": "windows/publish/Avalonia.Win32.Automation.dll",
+      "size": 124416,
+      "sha256": "da1da0aa60822a9cae8fee3852abc84b45b8061c74c92f3a5dd20f740fea2406"
+    },
+    {
+      "path": "windows/publish/Avalonia.Win32.dll",
+      "size": 963584,
+      "sha256": "77061ab9ab28aa6d23a665d92003cda01151c7560349c5b3877a7f6abdd3744b"
+    },
+    {
+      "path": "windows/publish/Avalonia.X11.dll",
+      "size": 408576,
+      "sha256": "c3051166a1e4132cfde651ec88e0414a0a79093c7be8f29387015dc895898408"
+    },
+    {
+      "path": "windows/publish/Avalonia.dll",
+      "size": 4096,
+      "sha256": "7517904f146bef9971c4eb2090aca5e590d51c99762f6d33715fbe444769d38b"
+    },
+    {
+      "path": "windows/publish/HarfBuzzSharp.dll",
+      "size": 122400,
+      "sha256": "55e72ac23263f8e12484f3435e02ec22fac9eff6e6d169bb0a8c246be6b99d29"
+    },
+    {
+      "path": "windows/publish/MicroCom.Runtime.dll",
+      "size": 15360,
+      "sha256": "2538ec6f3c24e901a90e33c37788b9a4e4b6ae8158cab7328a00a00bb28eab9e"
+    },
+    {
+      "path": "windows/publish/Microsoft.CSharp.dll",
+      "size": 980776,
+      "sha256": "2000912f2fc52e0c64ed893d79f4e7b143502540fb7170b5ae5fcea7099ba431"
+    },
+    {
+      "path": "windows/publish/Microsoft.DiaSymReader.Native.amd64.dll",
+      "size": 2377016,
+      "sha256": "70e4b89978ce57ef87b28f4921f3140c383b04aa96e7f3bdb3c4ebb898fd8a72"
+    },
+    {
+      "path": "windows/publish/Microsoft.VisualBasic.Core.dll",
+      "size": 1193768,
+      "sha256": "2666b24eb6e295476b44abd057ea250fd5957db9c1c7adee6a223a747ddfe3d2"
+    },
+    {
+      "path": "windows/publish/Microsoft.VisualBasic.dll",
+      "size": 17192,
+      "sha256": "e192508adde6a758138a5a8e28998dccb64e7f45eaf30d8ab3564f87749028b1"
+    },
+    {
+      "path": "windows/publish/Microsoft.Win32.Primitives.dll",
+      "size": 15656,
+      "sha256": "6c21472b0ae2f9b484a97614fad5485a22f18f9f19ee1adb9ceb3ed8ddb072d7"
+    },
+    {
+      "path": "windows/publish/Microsoft.Win32.Registry.dll",
+      "size": 116520,
+      "sha256": "76849cfde4369f3ae93e28261fe5e1010dbf1332f7da95c98543cba9b03961c0"
+    },
+    {
+      "path": "windows/publish/PaperLike.deps.json",
+      "size": 40744,
+      "sha256": "bc6fbc7f6e81dcec5716b3ecd17e5a44a8645e6cf962ece56f3c7c4cb223d46c"
+    },
+    {
+      "path": "windows/publish/PaperLike.dll",
+      "size": 110592,
+      "sha256": "5753ea3eca8ee27467d046069e08d759be2ca9213e32ee8ef39816d952a2410a"
+    },
+    {
+      "path": "windows/publish/PaperLike.exe",
+      "size": 187392,
+      "sha256": "a36540a887bcf15a5cf7b72c04fde1f1eff7a6d6e29133c2cc809f12b8a526fb"
+    },
+    {
+      "path": "windows/publish/PaperLike.pdb",
+      "size": 22300,
+      "sha256": "d5f1a3370015f5281e68b9d752790b49459d546848824c9dfe98e138a43dc889"
+    },
+    {
+      "path": "windows/publish/PaperLike.runtimeconfig.json",
+      "size": 360,
+      "sha256": "542c92af19efa01d5f899547dda634acddfdd16ff03970f25584a81ebd3f4a3d"
+    },
+    {
+      "path": "windows/publish/SkiaSharp.dll",
+      "size": 489824,
+      "sha256": "aaaaa18c68ba1f3a3408b00dff28b11d5705198e17ba9d3aa59222bfd35407c8"
+    },
+    {
+      "path": "windows/publish/System.AppContext.dll",
+      "size": 15144,
+      "sha256": "d9dd9fa44e019f27172d6b2662e2b6038f48c270912ac8aae53d4d909da7e9be"
+    },
+    {
+      "path": "windows/publish/System.Buffers.dll",
+      "size": 15144,
+      "sha256": "a1a35f5524e2f831d08ca55f702fbddcb8c6dfecd264f0f563d81a1c8b8280bd"
+    },
+    {
+      "path": "windows/publish/System.Collections.Concurrent.dll",
+      "size": 231248,
+      "sha256": "082f4bc0da1141eb65111b6da633d75624adfb7bb067d7ee90c5622c8b30885b"
+    },
+    {
+      "path": "windows/publish/System.Collections.Immutable.dll",
+      "size": 976680,
+      "sha256": "b527dd7b2beb82c22aa39787298cbeb33f3eac9eb9b83a0f0271353421db28db"
+    },
+    {
+      "path": "windows/publish/System.Collections.NonGeneric.dll",
+      "size": 104232,
+      "sha256": "aa4d5216d066c91cb489f63c6cbfcaf1f47b6e74e070db45639d3460454fc60b"
+    },
+    {
+      "path": "windows/publish/System.Collections.Specialized.dll",
+      "size": 104272,
+      "sha256": "e31af1f866e880844e027be59f545b9a6b34108e0b0680ebe3fbc19a53070819"
+    },
+    {
+      "path": "windows/publish/System.Collections.dll",
+      "size": 296744,
+      "sha256": "df6f2037eabee28100184e92f7536427ba2f086c1110629804d466b124bc4d54"
+    },
+    {
+      "path": "windows/publish/System.ComponentModel.Annotations.dll",
+      "size": 198480,
+      "sha256": "e3be2d35d81e6475c64110cfc099895b71df22c8b46a18c2d7c76a913b8ba903"
+    },
+    {
+      "path": "windows/publish/System.ComponentModel.DataAnnotations.dll",
+      "size": 16720,
+      "sha256": "d40e8c7062e6b9ce11ba83eab3d26be0eec8066b99970ea88b8e87fb75f411bd"
+    },
+    {
+      "path": "windows/publish/System.ComponentModel.EventBasedAsync.dll",
+      "size": 46888,
+      "sha256": "cc84fe814ef5e58271d83193e328f8ec220efd4696d90af9a7c4690c10451495"
+    },
+    {
+      "path": "windows/publish/System.ComponentModel.Primitives.dll",
+      "size": 79656,
+      "sha256": "1e2451184c287409ea25acde3c90f25950bf34d16458a6e52a94ca4292434f62"
+    },
+    {
+      "path": "windows/publish/System.ComponentModel.TypeConverter.dll",
+      "size": 767784,
+      "sha256": "10dae312a6697718f8ce3dfcdb17d6ae4b74687c765d74d50de8a8e69e08f5e7"
+    },
+    {
+      "path": "windows/publish/System.ComponentModel.dll",
+      "size": 30544,
+      "sha256": "e3b6f75864ee944898540937c1f300e04f44a1b2729516f0bbf948589a8b14b2"
+    },
+    {
+      "path": "windows/publish/System.Configuration.dll",
+      "size": 19240,
+      "sha256": "3952a72e1f18774f16952b46c20e80ed2bc601a06eca01f33fa924c738022a9c"
+    },
+    {
+      "path": "windows/publish/System.Console.dll",
+      "size": 169808,
+      "sha256": "3b85daf02a3d9ed99b84bb1c639fe8b1ced46d8d157fa56f525f6b8c5be43b3e"
+    },
+    {
+      "path": "windows/publish/System.Core.dll",
+      "size": 23336,
+      "sha256": "ac23faf1b37fa49f1b117baad951a65609e799a6e669a6df06d3552677e0c086"
+    },
+    {
+      "path": "windows/publish/System.Data.Common.dll",
+      "size": 2770728,
+      "sha256": "66bdd62047ee460e2ce2c33d15dd1173ac97997b2745864a905179594f821acc"
+    },
+    {
+      "path": "windows/publish/System.Data.DataSetExtensions.dll",
+      "size": 15656,
+      "sha256": "aeeae0755c8c7f6747765cdf82fa43182e320e97f2035e3a0a19f21905e6c113"
+    },
+    {
+      "path": "windows/publish/System.Data.dll",
+      "size": 25424,
+      "sha256": "49f52958a2a6e461d0fd7a47e54a199eb263c69ecfcc0fc684b73b5918ebf466"
+    },
+    {
+      "path": "windows/publish/System.Diagnostics.Contracts.dll",
+      "size": 16208,
+      "sha256": "6c05cacd9b61b08ae75f2d783cc402b0b5fc848e3d68c29c10b93897cc083e8b"
+    },
+    {
+      "path": "windows/publish/System.Diagnostics.Debug.dll",
+      "size": 15656,
+      "sha256": "8b160ffe7518588bf64e13c01c6dcb2ef504d64f38bbf0f198d31e7b698db92c"
+    },
+    {
+      "path": "windows/publish/System.Diagnostics.DiagnosticSource.dll",
+      "size": 501544,
+      "sha256": "6267c1bd1bdf2bdd4b5748b885b0adcda10f18697adfea8488a19a009ad44fdb"
+    },
+    {
+      "path": "windows/publish/System.Diagnostics.FileVersionInfo.dll",
+      "size": 46928,
+      "sha256": "e94f158142e93834dec3100bde3313935517d549ff36c65819a06d3104dec427"
+    },
+    {
+      "path": "windows/publish/System.Diagnostics.Process.dll",
+      "size": 329552,
+      "sha256": "51a57fbe918f8b68930c090792b718fc0850ea12da869d50b97a3796af29a740"
+    },
+    {
+      "path": "windows/publish/System.Diagnostics.StackTrace.dll",
+      "size": 46888,
+      "sha256": "8f6397c1e2ba9b8b8bfa317962151b5035049ce8d6b3575e5027a0d0eeacc797"
+    },
+    {
+      "path": "windows/publish/System.Diagnostics.TextWriterTraceListener.dll",
+      "size": 67368,
+      "sha256": "1bf165cee916a854e1150f489e4348ce94755359d5fcdcc0bc2bbbe6a7102bdd"
+    },
+    {
+      "path": "windows/publish/System.Diagnostics.Tools.dll",
+      "size": 15144,
+      "sha256": "841c5e2b6c171fa9aaff0fc6295f3fbc93dc5dcab44118b62f1c942bb674aff2"
+    },
+    {
+      "path": "windows/publish/System.Diagnostics.TraceSource.dll",
+      "size": 141096,
+      "sha256": "8445c7f1bbaae6cffde60e2c9a8753faaa5100255fbe31d0a1927d9d9bb7f194"
+    },
+    {
+      "path": "windows/publish/System.Diagnostics.Tracing.dll",
+      "size": 16208,
+      "sha256": "9563d5eec35f94d13a5e62eaa9535dbe0e9ea474f055da132fb8af46b0b01263"
+    },
+    {
+      "path": "windows/publish/System.Drawing.Primitives.dll",
+      "size": 132944,
+      "sha256": "17585b32ca91bac8ccff2ef1c6ddf62ee9ea5efc552928c3a9d1b868394246e9"
+    },
+    {
+      "path": "windows/publish/System.Drawing.dll",
+      "size": 20304,
+      "sha256": "585a8da9952d715f8de7a7b1879b59d68ff8608b92f6ed1c5f0e1d251180d3c6"
+    },
+    {
+      "path": "windows/publish/System.Dynamic.Runtime.dll",
+      "size": 16168,
+      "sha256": "c0eac30c791db8c1a2b50b61c50d029f4ddd0eadfdd35433745001688a3e7466"
+    },
+    {
+      "path": "windows/publish/System.Formats.Asn1.dll",
+      "size": 239440,
+      "sha256": "a163fe5f96d1689f1bc1ac531b38c3aba95792ac7dd52231d325d658947fbcfd"
+    },
+    {
+      "path": "windows/publish/System.Formats.Tar.dll",
+      "size": 272168,
+      "sha256": "44c9984f269a158915195fd32007f22c3bb692dcfeb933cda8ea45a3ac6cd1ce"
+    },
+    {
+      "path": "windows/publish/System.Globalization.Calendars.dll",
+      "size": 15656,
+      "sha256": "e0f3f3f6e4acc7b6755782fed5cb075ecf70beee4fc5d404579ae99bc0883ef2"
+    },
+    {
+      "path": "windows/publish/System.Globalization.Extensions.dll",
+      "size": 15144,
+      "sha256": "be0390557cc72078a7217cf94fd44b9ab66aa30838c00a92aa78c62469c44aa0"
+    },
+    {
+      "path": "windows/publish/System.Globalization.dll",
+      "size": 15696,
+      "sha256": "66902cffd057673b4b77aa68faf80d33ffa4c94510e61db2a067943cc53b7702"
+    },
+    {
+      "path": "windows/publish/System.IO.Compression.Brotli.dll",
+      "size": 83752,
+      "sha256": "0a59a95787ee15784d73079fdd5dc555b78659a6c560b6cbbf0d7452e638df89"
+    },
+    {
+      "path": "windows/publish/System.IO.Compression.FileSystem.dll",
+      "size": 15184,
+      "sha256": "4aeec2c0189f73ba8122f05c0d759008ddae1a8873b167cc8a558d53f2af80e1"
+    },
+    {
+      "path": "windows/publish/System.IO.Compression.Native.dll",
+      "size": 937256,
+      "sha256": "4d174b78aa8b3516c7e3cec0355dfe9ae570894055c377d2e5565d077a9a7a1e"
+    },
+    {
+      "path": "windows/publish/System.IO.Compression.ZipFile.dll",
+      "size": 100176,
+      "sha256": "2da76eb281740be485b5637da8c60fe0ce12bc2848d1a1a81ce144fa74313e18"
+    },
+    {
+      "path": "windows/publish/System.IO.Compression.dll",
+      "size": 419624,
+      "sha256": "c942747f84b730887090f5e0cf86d164c0ee402e524dce2750e06a6df48513fb"
+    },
+    {
+      "path": "windows/publish/System.IO.FileSystem.AccessControl.dll",
+      "size": 104232,
+      "sha256": "f7f9ed6cdab35274711e9345266784ec332ae8040db184d141c70e7941fbbec5"
+    },
+    {
+      "path": "windows/publish/System.IO.FileSystem.DriveInfo.dll",
+      "size": 55120,
+      "sha256": "0a7f3dd2fb6147a3fc046aeac8501d764effe5a3d8cfa56d2b244aa50b874b98"
+    },
+    {
+      "path": "windows/publish/System.IO.FileSystem.Primitives.dll",
+      "size": 15144,
+      "sha256": "d3b21b8b38e48c6b4d1cb5cfe9adfe4abad7b3353601febd3c7e4027f9ef9c6b"
+    },
+    {
+      "path": "windows/publish/System.IO.FileSystem.Watcher.dll",
+      "size": 87848,
+      "sha256": "8ab1704e4bd171056ec5a11e886d5199d05a641c6d0233c53d4766bf30328dd3"
+    },
+    {
+      "path": "windows/publish/System.IO.FileSystem.dll",
+      "size": 15656,
+      "sha256": "c251f33b29382c47b773d907463edd9fe978a06e39efd5670ef3b3b1d4f8c2b7"
+    },
+    {
+      "path": "windows/publish/System.IO.IsolatedStorage.dll",
+      "size": 87848,
+      "sha256": "2272a8bde18ed0e7c9e54ece9b849b9be76c90b978909d2b2fc94cf0ccbce427"
+    },
+    {
+      "path": "windows/publish/System.IO.MemoryMappedFiles.dll",
+      "size": 83752,
+      "sha256": "6e8b281ecb2f0f5e7aad3980f61d8812caa6b37884737f542f95410a76663e0e"
+    },
+    {
+      "path": "windows/publish/System.IO.Pipelines.dll",
+      "size": 190248,
+      "sha256": "ee9f0fd6c659f50799afd103c6ed9c5e408967e28dfa059bddf4b0a3fd2557dd"
+    },
+    {
+      "path": "windows/publish/System.IO.Pipes.AccessControl.dll",
+      "size": 15656,
+      "sha256": "1102f25a6e88f2fae81e4cd3628d8ef826f847b9c9b6a4d32ff8b37e0300da35"
+    },
+    {
+      "path": "windows/publish/System.IO.Pipes.dll",
+      "size": 165712,
+      "sha256": "3804f9992861122e60990b0765d0b50b33cdc2e4d89d26d9dbf8641d1d0134a2"
+    },
+    {
+      "path": "windows/publish/System.IO.UnmanagedMemoryStream.dll",
+      "size": 15696,
+      "sha256": "ad6a5f859589e1951103a00f45566da079cf87bd8b03f0c6ad985a6f39f19c5a"
+    },
+    {
+      "path": "windows/publish/System.IO.dll",
+      "size": 15656,
+      "sha256": "388400ccb189b819d6ec5f1ef70710a39641d93ed5b870fc9324866b75dfb78b"
+    },
+    {
+      "path": "windows/publish/System.Linq.AsyncEnumerable.dll",
+      "size": 1292072,
+      "sha256": "925208e8ac40ac3f7b988aba6ccbbb58adac38ad1876a7d97ee137be6c21a653"
+    },
+    {
+      "path": "windows/publish/System.Linq.Expressions.dll",
+      "size": 3639080,
+      "sha256": "8830f4a6a6982f53cfbb54f992858ee36b4994a6ff6e6078c39627e77bef282f"
+    },
+    {
+      "path": "windows/publish/System.Linq.Parallel.dll",
+      "size": 775976,
+      "sha256": "aa6068e3d8f6b2e492cc63dcaad6b02942edbae445cb2b88c24f1850b25c49f5"
+    },
+    {
+      "path": "windows/publish/System.Linq.Queryable.dll",
+      "size": 182056,
+      "sha256": "b3b3a9c1b87a51dacd46a3f9ec392c5d05e449152d44d6bd495df0994350e2fa"
+    },
+    {
+      "path": "windows/publish/System.Linq.dll",
+      "size": 698192,
+      "sha256": "284d38945b6e92e847129bd28af458b19818d0f2181f79882888ab2003f4c519"
+    },
+    {
+      "path": "windows/publish/System.Memory.dll",
+      "size": 161576,
+      "sha256": "f8f9d38efd6b0de30954d6bf1f353e9617bfb36d3d245c013a3b12be9f6bd88a"
+    },
+    {
+      "path": "windows/publish/System.Net.Http.Json.dll",
+      "size": 128848,
+      "sha256": "a9fe81ba3c048f9977e0099800eefd570a49be723c555725da57ba797c92b4e0"
+    },
+    {
+      "path": "windows/publish/System.Net.Http.dll",
+      "size": 1746768,
+      "sha256": "b98ed0cb80dd54c33fc049f33af5448710752155bbd5cc8cbcd932e01f066801"
+    },
+    {
+      "path": "windows/publish/System.Net.HttpListener.dll",
+      "size": 534312,
+      "sha256": "3dfe11fb30c5f84c911d9562be6c2037113cd8976ef2def3550ac415ae58955b"
+    },
+    {
+      "path": "windows/publish/System.Net.Mail.dll",
+      "size": 481064,
+      "sha256": "b585a55ee67c80d7f02a84d50d626d279c7aa77fd3e38206b434bd20c181eedc"
+    },
+    {
+      "path": "windows/publish/System.Net.NameResolution.dll",
+      "size": 124712,
+      "sha256": "e786c0940f5322f0ad6e8e34e7b582e5b050df0fb2230329325307e61bfd994c"
+    },
+    {
+      "path": "windows/publish/System.Net.NetworkInformation.dll",
+      "size": 157520,
+      "sha256": "7e8791833eb2d0aea77b119fed3cab8bf501f6a553155cc1c4e5b1c02f65593b"
+    },
+    {
+      "path": "windows/publish/System.Net.Ping.dll",
+      "size": 91984,
+      "sha256": "06bb307343db955a312634d00ba5e097cf5168a901284437592c28d780804e33"
+    },
+    {
+      "path": "windows/publish/System.Net.Primitives.dll",
+      "size": 210728,
+      "sha256": "4dbb41a178ef013a898327152eccd146228dd2eb83859b9bb36078333b41f0f1"
+    },
+    {
+      "path": "windows/publish/System.Net.Quic.dll",
+      "size": 358224,
+      "sha256": "af5b52cdee62d014af677c411530a3fde5c1c368adecb8f83dcfe9246e8bbe73"
+    },
+    {
+      "path": "windows/publish/System.Net.Requests.dll",
+      "size": 374568,
+      "sha256": "ed82d9d0b7942b2b02c5744a4591fbe2316879618adfc5660c9f111f814155f2"
+    },
+    {
+      "path": "windows/publish/System.Net.Security.dll",
+      "size": 665424,
+      "sha256": "a78bd713e807729f15b0e085c67fd6cbfefa85736a2618512d4ff1212759eba5"
+    },
+    {
+      "path": "windows/publish/System.Net.ServerSentEvents.dll",
+      "size": 83752,
+      "sha256": "c0b1944020d0e5688b90fba9f29209e367674e29d2020f700c302994d5417eda"
+    },
+    {
+      "path": "windows/publish/System.Net.ServicePoint.dll",
+      "size": 15144,
+      "sha256": "84fa83cd96e62fda02991b8a8e99fa1c7b3ac08807b04f7486a896cfe6b4a760"
+    },
+    {
+      "path": "windows/publish/System.Net.Sockets.dll",
+      "size": 530216,
+      "sha256": "645c56d637ce15976998119e50722a911315682ce141b4aab98874ce1b063f3a"
+    },
+    {
+      "path": "windows/publish/System.Net.WebClient.dll",
+      "size": 165672,
+      "sha256": "defa7bbf90c77ed01d6add53f678e4adfbcf97f3b1152affec06e652d327f1a2"
+    },
+    {
+      "path": "windows/publish/System.Net.WebHeaderCollection.dll",
+      "size": 63312,
+      "sha256": "74d66f776b4c15936a7b887f47ceb8bf277dbe82e71a78dd3ea5d02502b081e7"
+    },
+    {
+      "path": "windows/publish/System.Net.WebProxy.dll",
+      "size": 42832,
+      "sha256": "408e3daabb3f42b4f1b72a1e1def38f12ba58eb9d23dca620086819cf7484195"
+    },
+    {
+      "path": "windows/publish/System.Net.WebSockets.Client.dll",
+      "size": 104232,
+      "sha256": "f308a69b9ee1ac982f53d1d94374f4972a7e3c700742901ff7c2bbfb570019d2"
+    },
+    {
+      "path": "windows/publish/System.Net.WebSockets.dll",
+      "size": 243496,
+      "sha256": "c014a074d408c71011e26eac69be85003a852cfe115e8608bb5d4fd70536eb2e"
+    },
+    {
+      "path": "windows/publish/System.Net.dll",
+      "size": 17192,
+      "sha256": "481b38c912f8779b3510cd00f079e45096ea22b6defdaab66780d5ac3ae6986a"
+    },
+    {
+      "path": "windows/publish/System.Numerics.Vectors.dll",
+      "size": 15656,
+      "sha256": "a9a980ee33ed0c798a5e1960c4557521f465ac9e0987dfd2c3049d53b1f2fa5a"
+    },
+    {
+      "path": "windows/publish/System.Numerics.dll",
+      "size": 15184,
+      "sha256": "35adc9360421b3b7a3d50399cb2c651c160158d7e8c302907acbce5f61f4a4f7"
+    },
+    {
+      "path": "windows/publish/System.ObjectModel.dll",
+      "size": 79656,
+      "sha256": "2179bb19f335b4fcacd0994ad2ccfdac6840deff09c7889debfe9dbb5b88a3e6"
+    },
+    {
+      "path": "windows/publish/System.Private.CoreLib.dll",
+      "size": 16033576,
+      "sha256": "1125acc8106c43fc8bad2d203c4c4485df6182d292846c2fff415c1040c54678"
+    },
+    {
+      "path": "windows/publish/System.Private.DataContractSerialization.dll",
+      "size": 2062120,
+      "sha256": "8c07a5333c4e938cad8ac8f24b5965121bc0622442a352cbe81c58f17c2349a8"
+    },
+    {
+      "path": "windows/publish/System.Private.Uri.dll",
+      "size": 255824,
+      "sha256": "b15c84d2120e1ec9612c66ba59bc3d7e67d841e2bce7b7d0478cb212537539b4"
+    },
+    {
+      "path": "windows/publish/System.Private.Xml.Linq.dll",
+      "size": 390952,
+      "sha256": "c832b73de9783e6929ca5ff4863fc313e13ef7cfb5965c52587c4f77f6e037a7"
+    },
+    {
+      "path": "windows/publish/System.Private.Xml.dll",
+      "size": 7788328,
+      "sha256": "d71e72a7a9de324352edd281a46466b51bd0bdd2831b1573f8d3bae8bd2dd4a6"
+    },
+    {
+      "path": "windows/publish/System.Reflection.DispatchProxy.dll",
+      "size": 75600,
+      "sha256": "bf93a361c0bba8497889c9f7713add5968ba39394f9e6bda27e86294c6c43560"
+    },
+    {
+      "path": "windows/publish/System.Reflection.Emit.ILGeneration.dll",
+      "size": 15656,
+      "sha256": "6b42ddd05b0ca1c7342d73ea9f401fe588044215d65c67b756deb780f0894a26"
+    },
+    {
+      "path": "windows/publish/System.Reflection.Emit.Lightweight.dll",
+      "size": 15656,
+      "sha256": "d2724a2b7b46146877ec1f6e400c49ea05f84bdd31f3bba52ae139ee68a4f779"
+    },
+    {
+      "path": "windows/publish/System.Reflection.Emit.dll",
+      "size": 309032,
+      "sha256": "09059981bbeea0fdc5df589be5d7e3937d57e22bec4d78ceb492c587926fc238"
+    },
+    {
+      "path": "windows/publish/System.Reflection.Extensions.dll",
+      "size": 15144,
+      "sha256": "ceb1b81e1eb488d87bd43d16dc54450b2a78e0b653c44c988aae2a20abc162bc"
+    },
+    {
+      "path": "windows/publish/System.Reflection.Metadata.dll",
+      "size": 1156904,
+      "sha256": "82973e772017944a0548e445f30757595d95fe99e1f5c4a446df8c4db04b1c18"
+    },
+    {
+      "path": "windows/publish/System.Reflection.Primitives.dll",
+      "size": 15656,
+      "sha256": "c2bbd885d03da5e880667c228ac1f56a5f3a72ea37d43f010ada000adc33da28"
+    },
+    {
+      "path": "windows/publish/System.Reflection.TypeExtensions.dll",
+      "size": 42792,
+      "sha256": "7cac73ed746ce05a4a2f1e61dd52d41322ecc6ba84cfec463380f49487031459"
+    },
+    {
+      "path": "windows/publish/System.Reflection.dll",
+      "size": 16168,
+      "sha256": "95059346d6271dd6d0322cc321e5fb8cceab662f550c67aee7615059e41739bb"
+    },
+    {
+      "path": "windows/publish/System.Resources.Reader.dll",
+      "size": 15144,
+      "sha256": "20bdb5d302b5e28f6042c9f281cfa3ae2f2358544cc40783052fe5abf6aa859b"
+    },
+    {
+      "path": "windows/publish/System.Resources.ResourceManager.dll",
+      "size": 15696,
+      "sha256": "f709eb5cf16e26679782784c428825019785fcc7085562092425d4999bece03d"
+    },
+    {
+      "path": "windows/publish/System.Resources.Writer.dll",
+      "size": 50984,
+      "sha256": "684836486b9ba2817efa3099118860d259fd16db0c4c0533d42cad8c6c165b62"
+    },
+    {
+      "path": "windows/publish/System.Runtime.CompilerServices.Unsafe.dll",
+      "size": 15184,
+      "sha256": "6e685ec0477b21a688cd38bfcafc673888cdf186c99df3c96fab352e96d6fdc8"
+    },
+    {
+      "path": "windows/publish/System.Runtime.CompilerServices.VisualC.dll",
+      "size": 30504,
+      "sha256": "5fd85d3d7b47a921bdf48bf938c6615a49a4a3d493e1ea199f1b997c709618f4"
+    },
+    {
+      "path": "windows/publish/System.Runtime.Extensions.dll",
+      "size": 17704,
+      "sha256": "3d7b517d4fd89ee58c53e0f642cc9be42e7a8669b51a85e861dafe118067cbfd"
+    },
+    {
+      "path": "windows/publish/System.Runtime.Handles.dll",
+      "size": 15656,
+      "sha256": "985457a3e6a67e96a445ee0fb69b2d58bcdadc4c964253fb63e2d5061a36b050"
+    },
+    {
+      "path": "windows/publish/System.Runtime.InteropServices.JavaScript.dll",
+      "size": 50984,
+      "sha256": "5ba32bcde2d72362db2d6e02763ece79fa35bc878b50493e956ce594307e997f"
+    },
+    {
+      "path": "windows/publish/System.Runtime.InteropServices.RuntimeInformation.dll",
+      "size": 15656,
+      "sha256": "c26d9f94329422bd000f28f6c65fdc162bf9397a6d29e418a189d4ca49c5c3ec"
+    },
+    {
+      "path": "windows/publish/System.Runtime.InteropServices.dll",
+      "size": 112464,
+      "sha256": "e5eb1679f3579c9141e2bb9dbdce62624a623f38d299805cc1de07bacd21841f"
+    },
+    {
+      "path": "windows/publish/System.Runtime.Intrinsics.dll",
+      "size": 17192,
+      "sha256": "b07694ec91f3a200acf0f8b37c6ce5fcf05126a9198ae156d839fa5ca8439dc5"
+    },
+    {
+      "path": "windows/publish/System.Runtime.Loader.dll",
+      "size": 15656,
+      "sha256": "9b9b2a4f0358d9146e76178ddb87d019be380c78baa7dac853493d45df089f03"
+    },
+    {
+      "path": "windows/publish/System.Runtime.Numerics.dll",
+      "size": 354128,
+      "sha256": "8ac94fb810c092a9297a903762e79a75ae07d7229d0721540c391f86d3d5d220"
+    },
+    {
+      "path": "windows/publish/System.Runtime.Serialization.Formatters.dll",
+      "size": 124712,
+      "sha256": "5e8e957c6b7a63132555ede5bcf5fe6a59934c83300e28074ec6e9845ecdd17f"
+    },
+    {
+      "path": "windows/publish/System.Runtime.Serialization.Json.dll",
+      "size": 15656,
+      "sha256": "2fd71e3545dab4fc89b3fe54d13a1142f26a0cf187ebe375b3f7fa210fcb2596"
+    },
+    {
+      "path": "windows/publish/System.Runtime.Serialization.Primitives.dll",
+      "size": 38696,
+      "sha256": "f96093940e64d8eead98c86de9773d3c9d12c2b033bc6b1312ac88398303fdf3"
+    },
+    {
+      "path": "windows/publish/System.Runtime.Serialization.Xml.dll",
+      "size": 16680,
+      "sha256": "eedb66ea2cd1a26cc45a46d6631209ccbec959af82208872a93b3ae52f189222"
+    },
+    {
+      "path": "windows/publish/System.Runtime.Serialization.dll",
+      "size": 17192,
+      "sha256": "d565fc261ca98cbd14833821f777860291e8a0f775de7aee91778a9f6647f6f4"
+    },
+    {
+      "path": "windows/publish/System.Runtime.dll",
+      "size": 44840,
+      "sha256": "76be53624f64b23d0249dfa0bbe85390086de7c44bfd490642ea86c6faaf44af"
+    },
+    {
+      "path": "windows/publish/System.Security.AccessControl.dll",
+      "size": 227112,
+      "sha256": "cdc304f9ddb32023adb8db8953e56711c9b64462e4341d0b62e87ccd19dc7b10"
+    },
+    {
+      "path": "windows/publish/System.Security.Claims.dll",
+      "size": 100176,
+      "sha256": "c53c8a7e95d8296f951872fdd2e6334d11c20bffd4322f1a088773bf9dcaa3c2"
+    },
+    {
+      "path": "windows/publish/System.Security.Cryptography.Algorithms.dll",
+      "size": 17232,
+      "sha256": "eb99ae7dbe058a1b015aba6769ce1f65155b7ff51ff9a7203fcf6d7cdea5fef7"
+    },
+    {
+      "path": "windows/publish/System.Security.Cryptography.Cng.dll",
+      "size": 16168,
+      "sha256": "7319f97896d92a7d0729cf28dc6c4d1f797c1520b656ee01a780eec726ec2c16"
+    },
+    {
+      "path": "windows/publish/System.Security.Cryptography.Csp.dll",
+      "size": 16208,
+      "sha256": "4002af141e9cb29875b677841adf64a9681e5672c2595492dcbc161460d4e121"
+    },
+    {
+      "path": "windows/publish/System.Security.Cryptography.Encoding.dll",
+      "size": 15656,
+      "sha256": "994494aec7760f40fade2264aa7c13eebae36360f0b1399a7134bb19c9d58fda"
+    },
+    {
+      "path": "windows/publish/System.Security.Cryptography.OpenSsl.dll",
+      "size": 15656,
+      "sha256": "1a8902bbad1b577a98bec62a8472105dc1e9a253e390f69fbe3d167e93206968"
+    },
+    {
+      "path": "windows/publish/System.Security.Cryptography.Primitives.dll",
+      "size": 15656,
+      "sha256": "194cccea9354bb248e44c954b5373f9069163f8f21524b3ee4b3185fe436bc15"
+    },
+    {
+      "path": "windows/publish/System.Security.Cryptography.X509Certificates.dll",
+      "size": 16680,
+      "sha256": "7439c3b90bc2ee49a9275b28ed29052b4d48b45999ac1b7d25593033b1bb8dd6"
+    },
+    {
+      "path": "windows/publish/System.Security.Cryptography.dll",
+      "size": 2549544,
+      "sha256": "e0a839a540e47343b53a936b32d91599a3470005228d50fd0b896f8bbdcc65b0"
+    },
+    {
+      "path": "windows/publish/System.Security.Principal.Windows.dll",
+      "size": 178000,
+      "sha256": "2311a3f92971de918943573dfb66e04e25c1d543663951eb24e8eb1a0dcd4251"
+    },
+    {
+      "path": "windows/publish/System.Security.Principal.dll",
+      "size": 15144,
+      "sha256": "1d3e351058be3a33214b23b308fe57f78cd6fd4d8fad448fc84cbbe7376129f9"
+    },
+    {
+      "path": "windows/publish/System.Security.SecureString.dll",
+      "size": 15696,
+      "sha256": "73aac97072b7deefa4de9647bf822162224f1452ad467841b989ff89d4d94595"
+    },
+    {
+      "path": "windows/publish/System.Security.dll",
+      "size": 18256,
+      "sha256": "d8efd304765e859369698efef9b3ca707defa8e142721fe5605d7a2de7d38375"
+    },
+    {
+      "path": "windows/publish/System.ServiceModel.Web.dll",
+      "size": 16680,
+      "sha256": "ce91013ee3a9a9d69a85e258f7749e6ece488295d7cb66f7c1079f2e8678fc5e"
+    },
+    {
+      "path": "windows/publish/System.ServiceProcess.dll",
+      "size": 15696,
+      "sha256": "63fc498c9d04e3c4345dfdb8016ad0639d54562dd7d8c707c072792c854df944"
+    },
+    {
+      "path": "windows/publish/System.Text.Encoding.CodePages.dll",
+      "size": 862032,
+      "sha256": "226e216e33c94ef7594bdffe670ba4dc5907151c113cb41ac9e9d570227e1765"
+    },
+    {
+      "path": "windows/publish/System.Text.Encoding.Extensions.dll",
+      "size": 15656,
+      "sha256": "8f51b9535db64fe027a40d6076200b1a6b0889bf05f62bb8e68c3eb083c7f113"
+    },
+    {
+      "path": "windows/publish/System.Text.Encoding.dll",
+      "size": 15696,
+      "sha256": "5e347db6b4f9b2746d50e1ac85be2d9cc7dc4038fde98ac4295bc7030c83cda9"
+    },
+    {
+      "path": "windows/publish/System.Text.Encodings.Web.dll",
+      "size": 124752,
+      "sha256": "d20431f20d992e71a4e82e5f25c822474e2f4097d8527972d3d78ea1f26e47c3"
+    },
+    {
+      "path": "windows/publish/System.Text.Json.dll",
+      "size": 1890128,
+      "sha256": "fa99f413be21ed5f484a09093fe5f0beba7de3062cf9cc9f847dbf8108dba55a"
+    },
+    {
+      "path": "windows/publish/System.Text.RegularExpressions.dll",
+      "size": 1034064,
+      "sha256": "060bcc88a688e687ff1404b83b5fb5cf17e19ec57f33d5b8a48ab494da83c134"
+    },
+    {
+      "path": "windows/publish/System.Threading.AccessControl.dll",
+      "size": 75560,
+      "sha256": "66d618b5522b3e4f7a3c7f2bd872fc378fa6f9bbdca3636854eb1a8cb948e631"
+    },
+    {
+      "path": "windows/publish/System.Threading.Channels.dll",
+      "size": 157480,
+      "sha256": "afc5deb3c32b3f64bced2025d0b01b316d41b691ebc6ccb1a2ec445ad4c15e39"
+    },
+    {
+      "path": "windows/publish/System.Threading.Overlapped.dll",
+      "size": 15696,
+      "sha256": "89fde15f8e520c4bcbc6cbfdceba2baed8670cdf52399a4cd7a21c6efb276c1a"
+    },
+    {
+      "path": "windows/publish/System.Threading.Tasks.Dataflow.dll",
+      "size": 472872,
+      "sha256": "a895b0c73d3a1afc4d89c1d9e445ed447af12864c25aad2c4cb7398ff50aa934"
+    },
+    {
+      "path": "windows/publish/System.Threading.Tasks.Extensions.dll",
+      "size": 15696,
+      "sha256": "f148e3a1414b7c2763ae21529ad79ad759f7cfd3c885256b64b0d2209dec2613"
+    },
+    {
+      "path": "windows/publish/System.Threading.Tasks.Parallel.dll",
+      "size": 132904,
+      "sha256": "6fa359bdbebb56be96339f244ed41658afcead5e010074da470df1115d1e7699"
+    },
+    {
+      "path": "windows/publish/System.Threading.Tasks.dll",
+      "size": 16680,
+      "sha256": "f80b21f7dae04377b73945456cabe25e2ab1f4b564095aed546c2aa571644567"
+    },
+    {
+      "path": "windows/publish/System.Threading.Thread.dll",
+      "size": 15696,
+      "sha256": "ce71949bb1ea67b686e799128582015ebf8758f1107e59e43f342ece3f662930"
+    },
+    {
+      "path": "windows/publish/System.Threading.ThreadPool.dll",
+      "size": 15656,
+      "sha256": "58fbc6c4b9c72087152fd0f0670a527098c00b0c19ba8d0979d3ca5ce07c6936"
+    },
+    {
+      "path": "windows/publish/System.Threading.Timer.dll",
+      "size": 15144,
+      "sha256": "9e4620846572f49aeb476aa99405071b4bbd0df4323e4e232787ed73642b1ee5"
+    },
+    {
+      "path": "windows/publish/System.Threading.dll",
+      "size": 83792,
+      "sha256": "6c32ed1bf8067e4169e8feddd15e6489b89d19d1c7aae1520a551b57745d0a60"
+    },
+    {
+      "path": "windows/publish/System.Transactions.Local.dll",
+      "size": 640808,
+      "sha256": "8d0283a311a16333ffb6f966d9765e4d8b866777ad99291a93b30db349a15bc4"
+    },
+    {
+      "path": "windows/publish/System.Transactions.dll",
+      "size": 16720,
+      "sha256": "56abfca0350c111d077b3d86a2469ea3da4fccc1871f7c51a8b4fdb664bb0ede"
+    },
+    {
+      "path": "windows/publish/System.ValueTuple.dll",
+      "size": 15696,
+      "sha256": "07a5347f6a597e5e0d72109efa1a525697e8c3f74fb0029005500f8ebbf9187a"
+    },
+    {
+      "path": "windows/publish/System.Web.HttpUtility.dll",
+      "size": 63272,
+      "sha256": "2cedef51b0a2c2b84240583339ecf2422c650e3388aa46f3494160b93b673887"
+    },
+    {
+      "path": "windows/publish/System.Web.dll",
+      "size": 15144,
+      "sha256": "bc260b3db247ad9a6e4a82a275da85c3691a41272cc745cb7eaefcf1f31cc817"
+    },
+    {
+      "path": "windows/publish/System.Windows.dll",
+      "size": 15696,
+      "sha256": "716eee98ceee87d38f0b301224462f8442aa793f4b1b9c3ffac315753320ab37"
+    },
+    {
+      "path": "windows/publish/System.Xml.Linq.dll",
+      "size": 15696,
+      "sha256": "ae04903b25717fa4695e7e63489091f0d461e791e0bd264c6c85250d668f540d"
+    },
+    {
+      "path": "windows/publish/System.Xml.ReaderWriter.dll",
+      "size": 21840,
+      "sha256": "8e48fed4d12bcffff01e8059caafb564697275797d2f5ec6823fdd82b87fe938"
+    },
+    {
+      "path": "windows/publish/System.Xml.Serialization.dll",
+      "size": 16208,
+      "sha256": "489694401c60905cb6dca8ef0bf738cb609cd45b337126a01c825b913086ba43"
+    },
+    {
+      "path": "windows/publish/System.Xml.XDocument.dll",
+      "size": 15696,
+      "sha256": "3ff858607de5146051498a7124ef983bea280d86e165f993516c6c26af81cfb5"
+    },
+    {
+      "path": "windows/publish/System.Xml.XPath.XDocument.dll",
+      "size": 30504,
+      "sha256": "5bcd27a7e93515b745993f6dda51391033883cb8a1a8a2e3dad5caed3548f0da"
+    },
+    {
+      "path": "windows/publish/System.Xml.XPath.dll",
+      "size": 15656,
+      "sha256": "c817b11c58d95fa942fbc62a4cfa8219e16dafa5641eb004cb2be424028ed5d8"
+    },
+    {
+      "path": "windows/publish/System.Xml.XmlDocument.dll",
+      "size": 15656,
+      "sha256": "a50b9b3a03596e36e73e7a7d54f4d018e8dcfaa7fe79e8cf900af8838ef3ec36"
+    },
+    {
+      "path": "windows/publish/System.Xml.XmlSerializer.dll",
+      "size": 17744,
+      "sha256": "0b7d057c2b5b2272e8d4096a755edfd96f3cf03ab9aaa3fef54b462bf48d517e"
+    },
+    {
+      "path": "windows/publish/System.Xml.dll",
+      "size": 23376,
+      "sha256": "277a84ba155fe7808a514f32694a8157ec9f0eeeef00ef9643e5250004054ff0"
+    },
+    {
+      "path": "windows/publish/System.dll",
+      "size": 50472,
+      "sha256": "ef135f0bda0c41e142fdbd67b93e5aa7911916cb250f7df302f4151a3bbfa380"
+    },
+    {
+      "path": "windows/publish/Tmds.DBus.Protocol.dll",
+      "size": 232960,
+      "sha256": "60a1c5255731d8ac843cab53108be8ba1ed02759ce3db0da5b49939ebe97bd8a"
+    },
+    {
+      "path": "windows/publish/WindowsBase.dll",
+      "size": 16208,
+      "sha256": "0ec46a38f29a234b9a4d0ae9364c8322f661a47c831c5b948f2787b7ca12dbbd"
+    },
+    {
+      "path": "windows/publish/av_libglesv2.dll",
+      "size": 5394096,
+      "sha256": "53191a77fe783cd757ca7767077c2a64a662e7043777a5b4ab74980d4a0b73e3"
+    },
+    {
+      "path": "windows/publish/clretwrc.dll",
+      "size": 317736,
+      "sha256": "7a2186201c87bbc597a1b8b26facd88e68f03be4c4a4211fd65cc6595c72e45b"
+    },
+    {
+      "path": "windows/publish/clrgc.dll",
+      "size": 674088,
+      "sha256": "65e2f97d263824bfb9f75f92e66ebd22229aaf3a5faddef9345811d856c8840e"
+    },
+    {
+      "path": "windows/publish/clrgcexp.dll",
+      "size": 711464,
+      "sha256": "23a8050ec68542989b6da6cc906a90faf8a14e6416fd2871a260b781b1c374ae"
+    },
+    {
+      "path": "windows/publish/clrjit.dll",
+      "size": 2092328,
+      "sha256": "0749d8fc8e944d0576e1bb47120f87add8f875e5cd8968995633063fc79256f6"
+    },
+    {
+      "path": "windows/publish/coreclr.dll",
+      "size": 4614992,
+      "sha256": "128aee8c62a673d64739e585e3876b61133571cec83a46240a62581d5465639b"
+    },
+    {
+      "path": "windows/publish/createdump.exe",
+      "size": 71552,
+      "sha256": "315307159925d33eb604186a512901d080ecfc4cd8b8198030a7d398c6af2b0b"
+    },
+    {
+      "path": "windows/publish/hostfxr.dll",
+      "size": 379688,
+      "sha256": "838591885c5396fb0588a3aedc2f3e841d3afc67570868b1bce615264005a44c"
+    },
+    {
+      "path": "windows/publish/hostpolicy.dll",
+      "size": 378664,
+      "sha256": "e92a2e71eeeaf7c574e905935b3e3724ef29bade44317659dbe06f505e99dbe0"
+    },
+    {
+      "path": "windows/publish/libHarfBuzzSharp.dll",
+      "size": 1816088,
+      "sha256": "145ade963eba427027d5e1381db5d51a0ef9e98e9fef9efbfa6074ca20da246f"
+    },
+    {
+      "path": "windows/publish/libHarfBuzzSharp.pdb",
+      "size": 20918272,
+      "sha256": "4300d75d5af09fbb79d565d9a18573243a93214c811d4f24a33f11f0d4242d93"
+    },
+    {
+      "path": "windows/publish/libSkiaSharp.dll",
+      "size": 11628896,
+      "sha256": "7dec3ba900ab353491e6446f0083739924c6f8dd668832e2f09d38ebffdbbe1c"
+    },
+    {
+      "path": "windows/publish/libSkiaSharp.pdb",
+      "size": 84033536,
+      "sha256": "9fa70aeff3122bcceae15cd89d9d2f3c88c8d382122ef70ad694a76d119dcc6e"
+    },
+    {
+      "path": "windows/publish/mscordaccore.dll",
+      "size": 1356640,
+      "sha256": "86c29a7b945525135de16c3dcb71e3b8517848c459cbb21395b352d4e6bba09c"
+    },
+    {
+      "path": "windows/publish/mscordaccore_amd64_amd64_10.0.1226.42308.dll",
+      "size": 1356640,
+      "sha256": "86c29a7b945525135de16c3dcb71e3b8517848c459cbb21395b352d4e6bba09c"
+    },
+    {
+      "path": "windows/publish/mscordbi.dll",
+      "size": 1237888,
+      "sha256": "753e92805f3886221f56dcfc07191ad7ee44235bf689db0490bdf777f25e9175"
+    },
+    {
+      "path": "windows/publish/mscorlib.dll",
+      "size": 59728,
+      "sha256": "b698595367a7d4fa57ccacab73751fde0bb8f2415345c62cdfe7ced890da2c0c"
+    },
+    {
+      "path": "windows/publish/mscorrc.dll",
+      "size": 133968,
+      "sha256": "f0d8c7491d4659a4c5a4c00615255a60e05634f311162c2775a51e03c070c9e0"
+    },
+    {
+      "path": "windows/publish/msquic.dll",
+      "size": 536344,
+      "sha256": "b7158d427b01c70483bb3d80c5211e387dd98e9471c8a70e4484d449de9157e8"
+    },
+    {
+      "path": "windows/publish/netstandard.dll",
+      "size": 100648,
+      "sha256": "3dc81dbc9dacd28261632c94410859eda24c2db50cd6c14309cbb2a434b50c57"
+    }
+  ]
+}
